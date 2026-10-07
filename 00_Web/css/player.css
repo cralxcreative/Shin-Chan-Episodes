@@ -1,0 +1,70 @@
+
+
+
+.video-gradient-overlay {
+    background: linear-gradient(135deg, rgba(0,0,0,0.6) 0%, rgba(45,47,47,0.4) 100%);
+}
+
+.player-container {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
+
+.player-controls {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+    padding: 2rem 1.5rem 1.5rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 10;
+}
+
+.player-container:hover .player-controls {
+    opacity: 1;
+}
+
+.player-controls.always-visible {
+    opacity: 1;
+}
+
+.control-btn:hover {
+    transform: scale(1.1);
+}
+
+.icon-btn:hover {
+    transform: scale(1.1);
+}
+
+video::-webkit-media-controls {
+    display: none !important;
+}
+
+.volume-slider::-webkit-slider-thumb {
+    background: #fdd400;
+}
+
+.volume-slider::-moz-range-thumb {
+    background: #fdd400;
+}
+
+.progress-bar {
+    transition: height 0.2s ease;
+}
+
+.progress-bar:hover {
+    height: 6px;
+}
+
+@media (max-width: 768px) {
+    .player-controls {
+        padding: 1.5rem 1rem 1rem;
+    }
+
+    .hidden-mobile {
+        display: none !important;
+    }
+}
