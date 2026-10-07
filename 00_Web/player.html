@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor - SHIN CHAN</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+    <script src="js/config.js" defer></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/player.css">
+</head>
+<body class="bg-inverse-surface font-body text-surface-bright min-h-screen w-full overflow-x-hidden overflow-y-auto">
+
+    <div class="fixed inset-0 z-0">
+        <img id="background-image" class="w-full h-full object-cover" alt="background"/>
+        <div class="absolute inset-0 video-gradient-overlay z-10"></div>
+    </div>
+
+    <main class="relative z-20 min-h-screen w-full flex flex-col justify-between gap-6 p-4 md:p-8">
+        <!-- Header -->
+        <header class="flex items-center justify-between w-full">
+            <button class="group flex items-center gap-2 md:gap-4 bg-surface-container-highest/20 backdrop-blur-xl px-3 md:px-6 py-2 md:py-3 rounded-full hover:bg-primary-container transition-all active:scale-95" onclick="goBack()">
+                <span class="material-symbols-outlined text-sm md:text-base text-surface-bright group-hover:text-on-primary-container">arrow_back</span>
+                <span class="font-headline font-bold text-surface-bright group-hover:text-on-primary-container hidden md:inline text-sm md:text-base">Volver</span>
+            </button>
+            <div class="hidden md:flex flex-col items-end">
+                <span class="text-xs font-bold uppercase tracking-widest text-primary-fixed/60">Reproduciendo ahora</span>
+                <span class="text-lg font-black font-headline text-primary-fixed">SHIN CHAN</span>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <section class="w-full flex-1 flex flex-col justify-center max-w-7xl mx-auto">
+            <!-- Episode Title (Mobile) -->
+            <div class="space-y-2 md:space-y-3 mb-4 md:mb-6">
+                <div class="flex items-center gap-2 md:gap-3 flex-wrap">
+                    <span class="bg-secondary text-on-secondary text-[9px] md:text-[10px] font-bold px-2 md:px-3 py-1 rounded-full uppercase" id="episode-badge">Cargando...</span>
+                    <span class="bg-tertiary text-on-tertiary text-[9px] md:text-[10px] font-bold px-2 md:px-3 py-1 rounded-full uppercase">HD</span>
+                </div>
+                <h1 class="text-lg md:text-3xl lg:text-5xl font-black font-headline tracking-tighter leading-tight line-clamp-2 md:line-clamp-none" id="episode-title">
+                    Cargando episodio...
+                </h1>
+            </div>
+
+            <!-- Video Player Container -->
+            <div class="relative w-full bg-black rounded-lg overflow-hidden shadow-2xl player-container group">
+                <!-- Video -->
+                <video 
+                    id="main-video" 
+                    class="w-full h-full object-contain"
+                ></video>
+
+                <!-- Play Button Overlay -->
+                <div class="play-overlay absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-black/30 cursor-pointer" onclick="togglePlay()">
+                    <button class="w-16 h-16 md:w-24 md:h-24 bg-primary-container text-on-primary-container rounded-full flex items-center justify-center hover:scale-110 transition-transform" id="overlay-play-btn">
+                        <span id="overlay-play-icon" class="material-symbols-outlined text-4xl md:text-6xl" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+                    </button>
+                </div>
+
+                <!-- Controls Bar -->
+                <div class="player-controls">
+                    <!-- Progress Bar -->
+                    <div class="space-y-2 mb-3">
+                        <div class="w-full h-1 bg-white/20 rounded-full overflow-hidden group cursor-pointer progress-bar" id="progress-container">
+                            <div id="progress-bar" class="h-full w-0 bg-primary-container rounded-full relative transition-all duration-150">
+                                <div class="absolute right-0 top-1/2 -translate-y-1/2 w-3 h-3 bg-white rounded-full shadow-lg scale-0 group-hover:scale-100 transition-transform"></div>
+                            </div>
+                        </div>
+                        <div class="flex justify-between text-[9px] md:text-[10px] font-bold font-headline tracking-widest opacity-60">
+                            <span id="current-time">00:00</span>
+                            <span id="duration-time">00:00</span>
+                        </div>
+                    </div>
+
+                    <!-- Button Controls -->
+                    <div class="flex items-center justify-between gap-2 md:gap-4">
+                        <!-- Left: Play Controls -->
+                        <div class="flex items-center gap-2 md:gap-6">
+                            <!-- Rewind -->
+                            <button class="control-btn hidden-mobile md:flex" title="Retroceder 10s" onclick="rewind()">
+                                <span class="material-symbols-outlined text-2xl md:text-3xl">replay_10</span>
+                            </button>
+
+                            <!-- Play/Pause -->
+                            <button id="play-pause" class="w-12 h-12 md:w-16 md:h-16 flex items-center justify-center bg-primary-container text-on-primary-container rounded-full shadow-xl hover:scale-110 active:scale-95 transition-all flex-shrink-0" onclick="togglePlay()" title="Reproducir/Pausar">
+                                <span id="play-icon" class="material-symbols-outlined text-2xl md:text-3xl" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+                            </button>
+
+                            <!-- Forward -->
+                            <button class="control-btn hidden-mobile md:flex" title="Adelantar 10s" onclick="forward()">
+                                <span class="material-symbols-outlined text-2xl md:text-3xl">forward_10</span>
+                            </button>
+                        </div>
+
+                        <!-- Right: Settings -->
+                        <div class="flex items-center gap-1 md:gap-4">
+                            <!-- Volume -->
+                            <div class="flex items-center gap-1 md:gap-2 bg-white/10 px-2 md:px-3 py-1 md:py-2 rounded-full hidden-mobile md:flex">
+                                <span class="material-symbols-outlined text-sm md:text-base">volume_up</span>
+                                <input 
+                                    type="range" 
+                                    min="0" 
+                                    max="100" 
+                                    value="70" 
+                                    class="w-16 md:w-24 h-1 bg-white/20 rounded-full accent-primary-container volume-slider cursor-pointer"
+                                    onchange="setVolume(this.value)"
+                                    title="Volumen"
+                                />
+                            </div>
+
+                            <!-- Mobile Volume Toggle -->
+                            <button class="icon-btn md:hidden" title="Volumen" onclick="toggleVolume()">
+                                <span class="material-symbols-outlined text-lg" id="mobile-volume-icon">volume_up</span>
+                            </button>
+                            <!-- Favorite -->
+                            <button class="icon-btn" id="fav-btn" title="Añadir a favoritos" onclick="toggleFavorite()">
+                                <span id="fav-icon" class="material-symbols-outlined text-lg md:text-xl">favorite</span>
+                            </button>
+
+                            <!-- Picture in Picture -->
+                            <button class="icon-btn" title="Picture in Picture (P)" id="pip-btn" onclick="togglePiP()">
+                                <span class="material-symbols-outlined text-lg md:text-xl">picture_in_picture_alt</span>
+                            </button>
+
+                            <!-- Fullscreen -->
+                            <button class="icon-btn" title="Pantalla completa" id="fullscreen-btn" onclick="toggleFullscreen()">
+                                <span class="material-symbols-outlined text-lg md:text-xl">fullscreen</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/favorites.js"></script>
+    <script src="js/archive.js"></script>
+    <script src="js/player.js"></script>
+</body>
+</html>

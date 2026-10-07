@@ -1,0 +1,2592 @@
+{
+  "seasons": [
+    {
+      "id": 1,
+      "name": "Season 1",
+      "episodes": [
+        {
+          "id": 1,
+          "title": "Shin-chan se va de compras. Trabajo de madres. Mira qué dibujo",
+          "duration": "20:17 min",
+          "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuABuMJcYfksAhCAVs42Wpl3YV7h0WYBC17ctylgCIk3ymmyz1vSFF7zGm33xOCei1xgTgnsmi2ACmEvD4YD8iDYhnMZ3by-TiPwiF2Pvyi5YQBS33uqVdrR3IyJwE3MbdLr2X4Me37YEbjUwC9u0AQ1l3VM6pinOYhxtMTGObg7uPNzqRhy0YNUSPTvo6-qui4VZfKCbLjlHUKVeg_m4LiqaAaTIfPo7z6CmbppvMzK-4TgIrWqAaq3XPWgShwcxvviiT97JXhAhsE",
+          "videoUrl": "../Season_1/1 ShinChaneros - Shin-chan se va de compras. Trabajo de madres. Mira qué dibujo..mp4"
+        },
+        {
+          "id": 2,
+          "title": "Quiero un triciclo. Cómo me duele la barriga. Pobre papá.",
+          "duration": "20:18 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/2 ShinChaneros - Quiero un triciclo. Cómo me duele la barriga. Pobre papá..mp4"
+        },
+        {
+          "id": 3,
+          "title": "Loco por Ultrahéroe. Cómo me gusta comer en el colegio. Me voy al dentista",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/3 ShinChaneros - Loco por Ultrahéroe. Cómo me gusta comer en el colegio. Me voy al dentista..mp4"
+        },
+        {
+          "id": 4,
+          "title": "Los de la clase de los girasoles somos unos héroes. Me voy de pícnic.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/4 ShinChaneros - Los de la clase de los girasoles somos unos héroes. Me voy de pícnic..mp4"
+        },
+        {
+          "id": 5,
+          "title": "Voy al cine. Hago un regalo a la señorita. Yo quiero ayudar en casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/5 ShinChaneros - Voy al cine. Hago un regalo a la señorita. Yo quiero ayudar en casa..mp4"
+        },
+        {
+          "id": 6,
+          "title": "Ordeno mis cosas. Tenemos renacuajos. Me baño con mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/6 ShinChaneros - Ordeno mis cosas. Tenemos renacuajos. Me baño con mamá..mp4"
+        },
+        {
+          "id": 7,
+          "title": "Con el simulacro de emergencia no se bromea. He encontrado un perrito. Se llama Nevado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/7 ShinChaneros - Con el simulacro de emergencia no se bromea. He encontrado un perrito. Se llama Nevado..mp4"
+        },
+        {
+          "id": 8,
+          "title": "Saco a pasear a Nevado. Le hacemos la casita a Nevado. No soporto los pimientos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/8 ShinChaneros - Saco a pasear a Nevado. Le hacemos la casita a Nevado. No soporto los pimientos..mp4"
+        },
+        {
+          "id": 9,
+          "title": "A papá no se le molesta. Juego con la plastilina. En la librería no se puede leer.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/9 ShinChaneros - A papá no se le molesta. Juego con la plastilina. En la librería no se puede leer..mp4"
+        },
+        {
+          "id": 10,
+          "title": "Tengo una amiga nueva. Quiero un bañador. Es momento de ir a la piscina.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/10 ShinChaneros - Tengo una amiga nueva. Quiero un bañador. Es momento de ir a la piscina..mp4"
+        },
+        {
+          "id": 11,
+          "title": "Le doy de comer a Nevado. Las peleas matrimoniales no son cosa de broma. Nos vamos todos a pescar.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/11 ShinChaneros - Le doy de comer a Nevado. Las peleas matrimoniales no son cosa de broma. Nos vamos todos a pescar..mp4"
+        },
+        {
+          "id": 12,
+          "title": "Voy al peluquero. Hago de guardaespaldas. Grabó con la cámara.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/12 ShinChaneros - Voy al peluquero. Hago de guardaespaldas. Grabó con la cámara..mp4"
+        },
+        {
+          "id": 13,
+          "title": "Me gusta mucho ir a la playa. Estamos en un hotel de lujo. Volver a casa es un palo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/13 ShinChaneros - Me gusta mucho ir a la playa. Estamos en un hotel de lujo. Volver a casa es un palo..mp4"
+        },
+        {
+          "id": 14,
+          "title": "Que mamá está echando la siesta. Aprendo inglés. Esta noche tiraremos petardos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/14 ShinChaneros - Que mamá está echando la siesta. Aprendo inglés. Esta noche tiraremos petardos..mp4"
+        },
+        {
+          "id": 15,
+          "title": "Voy a buscar el tren. Ya he subido al tren. Nos vamos a los baños públicos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/15 ShinChaneros - Voy a buscar el tren. Ya he subido al tren. Nos vamos a los baños públicos..mp4"
+        },
+        {
+          "id": 16,
+          "title": "Cuido a mamá. Juego con un buscarrazones. Vamos a la feria.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/16 ShinChaneros - Cuido a mamá. Juego con un buscarrazones. Vamos a la feria..mp4"
+        },
+        {
+          "id": 17,
+          "title": "Voy a ver a Ultrahéroe. La señorita Yoshinaga ha quedado con un chico. Tengo a Nevado bien abandonado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/17 ShinChaneros - Voy a ver a Ultrahéroe. La señorita Yoshinaga ha quedado con un chico. Tengo a Nevado bien abandonado..mp4"
+        },
+        {
+          "id": 18,
+          "title": "Juego al béisbol con papá. La mamá de Nené es muy simpática. Ha venido el abuelo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/18 ShinChaneros - Juego al béisbol con papá. La mamá de Nené es muy simpática. Ha venido el abuelo..mp4"
+        },
+        {
+          "id": 19,
+          "title": "Se acerca un tifón. ¿Buscas pelea. Voy a enviar una carta.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/19 ShinChaneros - Se acerca un tifón. ¿Buscas pelea . Voy a enviar una carta..mp4"
+        },
+        {
+          "id": 20,
+          "title": "Después de cenar tengo que lavarme los dientes. Me hago pipí en la cama. Bailo una balada.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/20 ShinChaneros - Después de cenar tengo que lavarme los dientes. Me hago pipí en la cama. Bailo una balada..mp4"
+        },
+        {
+          "id": 21,
+          "title": "Me entreno para el día de los deportes. Corro con mamá. Hacemos una carrera de relevos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/21 ShinChaneros - Me entreno para el día de los deportes. Corro con mamá. Hacemos una carrera de relevos..mp4"
+        },
+        {
+          "id": 22,
+          "title": "Estoy en guerra con mamá. Jugamos a hacer pompas de jabón. Vuelvo a la librería.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/22 ShinChaneros - Estoy en guerra con mamá. Jugamos a hacer pompas de jabón. Vuelvo a la librería..mp4"
+        },
+        {
+          "id": 23,
+          "title": "Tenemos una contraseña. Andamos con zancos. Nos vamos a buscar a papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/23 ShinChaneros - Tenemos una contraseña. Andamos con zancos. Nos vamos a buscar a papá..mp4"
+        },
+        {
+          "id": 24,
+          "title": "Mi vecina trabaja mucho. Hago teatro. Me meto en la discusión de mis padres.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/24 ShinChaneros - Mi vecina trabaja mucho. Hago teatro. Me meto en la discusión de mis padres..mp4"
+        },
+        {
+          "id": 25,
+          "title": "Perseguimos a una cucaracha. Nos miran la altura y el peso. Lavo el coche con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/25 ShinChaneros - Perseguimos a una cucaracha. Nos miran la altura y el peso. Lavo el coche con papá..mp4"
+        },
+        {
+          "id": 26,
+          "title": "Me he perdido en los grandes almacenes. Limpiamos el gallinero. Me voy al templo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/26 ShinChaneros - Me he perdido en los grandes almacenes. Limpiamos el gallinero. Me voy al templo..mp4"
+        },
+        {
+          "id": 27,
+          "title": "Hago gárgaras. Ayudó a la señorita. Compro boniatos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/27 ShinChaneros - Hago gárgaras. Ayudó a la señorita. Compro boniatos..mp4"
+        },
+        {
+          "id": 28,
+          "title": "Vamos a visitar a una persona al hospital. Jugamos al escondite. Vamos al parque zoológico.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/28 ShinChaneros - Vamos a visitar a una persona al hospital. Jugamos al escondite. Vamos al parque zoológico..mp4"
+        },
+        {
+          "id": 29,
+          "title": "El parque zoológico es muy divertido. Acompañó a mamá a la peluquería. Yo también quiero un regalo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/29 ShinChaneros - El parque zoológico es muy divertido. Acompañó a mamá a la peluquería. Yo también quiero un regalo..mp4"
+        },
+        {
+          "id": 30,
+          "title": "Voy al banco con mamá. La policía viene a la escuela. Me baño con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/30 ShinChaneros - Voy al banco con mamá. La policía viene a la escuela. Me baño con papá..mp4"
+        },
+        {
+          "id": 31,
+          "title": "Me quedo a solas con Nevado. La señorita Matsuzaka tiene un secreto. Vuelve el abuelo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/31 ShinChaneros - Me quedo a solas con Nevado. La señorita Matsuzaka tiene un secreto. Vuelve el abuelo..mp4"
+        },
+        {
+          "id": 32,
+          "title": "Voy a esquiar. Kazama es increíble. Es Navidad.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/32 ShinChaneros - Voy a esquiar. Kazama es increíble. Es Navidad..mp4"
+        },
+        {
+          "id": 33,
+          "title": "Qué calentito se está en el brasero. Soy el cerdito valiente. Hacemos limpieza general. Nos vamos de compras. Echan un especial de Ultrah...",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_1/33 ShinChaneros - Qué calentito se está en el brasero. Soy el cerdito valiente. Hacemos limpieza general. Nos vamos de compras. Echan un especial de Ultrah..."
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Season 2",
+      "episodes": [
+        {
+          "id": 34,
+          "title": "Hacemos la comida de año nuevo. Hago volar cometas. Hacemos un muñeco de nieve.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/34 ShinChaneros - Hacemos la comida de año nuevo. Hago volar cometas. Hacemos un muñeco de nieve..mp4"
+        },
+        {
+          "id": 35,
+          "title": "Preparó una fiambrera para la escuela. Jugamos a papás y a mamás. Ayudo a las libreras.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/35 ShinChaneros - Preparó una fiambrera para la escuela. Jugamos a papás y a mamás. Ayudo a las libreras..mp4"
+        },
+        {
+          "id": 36,
+          "title": "Hago de modelo. Nos vamos a un balneario. En el balneario hay unos baños mixtos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/36 ShinChaneros - Hago de modelo. Nos vamos a un balneario. En el balneario hay unos baños mixtos..mp4"
+        },
+        {
+          "id": 37,
+          "title": "Celebramos que se acaba el invierno. Misae cae atrapada en la telaraña. Ayudo a mamá a hacer la cena.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/37 ShinChaneros - Celebramos que se acaba el invierno. Misae cae atrapada en la telaraña. Ayudo a mamá a hacer la cena..mp4"
+        },
+        {
+          "id": 38,
+          "title": "Me he constipado. Pobre policía. Nos vamos a un karaoke.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/38 ShinChaneros - Me he constipado. Pobre policía. Nos vamos a un karaoke..mp4"
+        },
+        {
+          "id": 39,
+          "title": "Voy a comprar pececillos de chocolate. Hoy nos quedamos en el colegio. También pasamos la noche en el colegio.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/39 ShinChaneros - Voy a comprar pececillos de chocolate. Hoy nos quedamos en el colegio. También pasamos la noche en el colegio..mp4"
+        },
+        {
+          "id": 40,
+          "title": "En la biblioteca se ha de estar en silencio. Me entreno para la maratón. Corremos la maratón.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/40 ShinChaneros - En la biblioteca se ha de estar en silencio. Me entreno para la maratón. Corremos la maratón..mp4"
+        },
+        {
+          "id": 41,
+          "title": "Nos vamos a casa de Nené. Vamos a hacer un cursillo de natación. Soy el domador de Nevado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/41 ShinChaneros - Nos vamos a casa de Nené. Vamos a hacer un cursillo de natación. Soy el domador de Nevado..mp4"
+        },
+        {
+          "id": 42,
+          "title": "Juego a bádminton. Hacemos una excursión con la clase. Saco a Nevado a pasear.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/42 ShinChaneros - Juego a bádminton. Hacemos una excursión con la clase. Saco a Nevado a pasear..mp4"
+        },
+        {
+          "id": 43,
+          "title": "Pedimos una pizza. Masao tiene un hámster. Extiendo el futón.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/43 ShinChaneros - Pedimos una pizza. Masao tiene un hámster. Extiendo el futón..mp4"
+        },
+        {
+          "id": 44,
+          "title": "Nos entrenamos para jugar al fútbol. Hoy es el partido de fútbol. Hay un terremoto.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/44 ShinChaneros - Nos entrenamos para jugar al fútbol. Hoy es el partido de fútbol. Hay un terremoto..mp4"
+        },
+        {
+          "id": 45,
+          "title": "Tenemos que buscar un sitio para la fiesta de los cerezos. La fiesta de los cerezos es muy divertida. Voy a ver a papá al trabajo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/45 ShinChaneros - Tenemos que buscar un sitio para la fiesta de los cerezos. La fiesta de los cerezos es muy divertida. Voy a ver a papá al trabajo..mp4"
+        },
+        {
+          "id": 46,
+          "title": "Nevado tiene una vida de perro. Tengo una aventura en un mundo de ensueño. Voy a ver a las CC Girls. Ultrahéroe se acaba. Viajó con mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/46 ShinChaneros - Nevado tiene una vida de perro. Tengo una aventura en un mundo de ensueño. Voy a ver a las CC Girls. Ultrahéroe se acaba. Viajó con mamá..mp4"
+        },
+        {
+          "id": 47,
+          "title": "Vamos a plantar semillas. Voy a comprar al puesto de verduras. Me he afeitado una ceja.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/47 ShinChaneros - Vamos a plantar semillas. Voy a comprar al puesto de verduras. Me he afeitado una ceja..mp4"
+        },
+        {
+          "id": 48,
+          "title": "Papá está pedo. Estamos jugando a los detectives. Me voy de compras con mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/48 ShinChaneros - Papá está pedo. Estamos jugando a los detectives. Me voy de compras con mamá..mp4"
+        },
+        {
+          "id": 49,
+          "title": "Ya se acerca el día del niño. Estamos jugando a chutar la lata. Nos hemos quedado encerrados en el ascensor.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/49 ShinChaneros - Ya se acerca el día del niño. Estamos jugando a chutar la lata. Nos hemos quedado encerrados en el ascensor..mp4"
+        },
+        {
+          "id": 50,
+          "title": "Mamá tiene lumbago. He conocido a una vendedora a domicilio. Hoy es el día de la madre.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/50 ShinChaneros - Mamá tiene lumbago. He conocido a una vendedora a domicilio. Hoy es el día de la madre..mp4"
+        },
+        {
+          "id": 51,
+          "title": "Nos vamos de excursión. Nos hemos perdido en la montaña. Con el fuego no se juega.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/51 ShinChaneros - Nos vamos de excursión. Nos hemos perdido en la montaña. Con el fuego no se juega..mp4"
+        },
+        {
+          "id": 52,
+          "title": "No me gusta recoger los juguetes. Cuando me voy a dormir mis padres se divierten. Voy a la librería a vender mi libro.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/52 ShinChaneros - No me gusta recoger los juguetes. Cuando me voy a dormir mis padres se divierten. Voy a la librería a vender mi libro..mp4"
+        },
+        {
+          "id": 53,
+          "title": "Ayudo a mamá a arrancar las malas hierbas. La señorita Yoshinaga se ha puesto enferma. Vamos a visitar a la señorita Yoshinaga al hospital.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/53 ShinChaneros - Ayudo a mamá a arrancar las malas hierbas. La señorita Yoshinaga se ha puesto enferma. Vamos a visitar a la señorita Yoshinaga al hospital..mp4"
+        },
+        {
+          "id": 54,
+          "title": "Sacar la basura puede ser muy complicado. Vuelve la vendedora a domicilio. Salimos a comer fuera.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/54 ShinChaneros - Sacar la basura puede ser muy complicado. Vuelve la vendedora a domicilio. Salimos a comer fuera..mp4"
+        },
+        {
+          "id": 55,
+          "title": "Ayudo a la gente que lo necesita. Ser carpintero es un trabajo muy duro. Nevado ha desaparecido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/55 ShinChaneros - Ayudo a la gente que lo necesita. Ser carpintero es un trabajo muy duro. Nevado ha desaparecido..mp4"
+        },
+        {
+          "id": 56,
+          "title": "Hablo con un político. Tengo una hermana mayor. Hoy es el día del padre.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/56 ShinChaneros - Hablo con un político. Tengo una hermana mayor. Hoy es el día del padre..mp4"
+        },
+        {
+          "id": 57,
+          "title": "Hoy cocinamos papá y yo. Mamá tiene dolor de muelas. Vamos a mirar vestidos de novia.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/57 ShinChaneros - Hoy cocinamos papá y yo. Mamá tiene dolor de muelas. Vamos a mirar vestidos de novia..mp4"
+        },
+        {
+          "id": 58,
+          "title": "Vuelvo a jugar con los camorristas. Vamos a una boda. Vamos al convite de la boda.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/58 ShinChaneros - Vuelvo a jugar con los camorristas. Vamos a una boda. Vamos al convite de la boda..mp4"
+        },
+        {
+          "id": 59,
+          "title": "Tengo tanto miedo que no puedo dormir. Ayudo a limpiar la piscina. Nos ha tocado un viaje a Guam.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/59 ShinChaneros - Tengo tanto miedo que no puedo dormir. Ayudo a limpiar la piscina. Nos ha tocado un viaje a Guam..mp4"
+        },
+        {
+          "id": 60,
+          "title": "Nos vamos por primera vez al extranjero. Por primera vez subo a un avión. Llegamos a la isla de Guam. Esta isla es una caña.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/60 ShinChaneros - Nos vamos por primera vez al extranjero. Por primera vez subo a un avión. Llegamos a la isla de Guam. Esta isla es una caña..mp4"
+        },
+        {
+          "id": 61,
+          "title": "Mamá me hincha globos. Hemos encontrado una cartera en la calle. Me voy a Tokio con el abuelo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/61 ShinChaneros - Mamá me hincha globos. Hemos encontrado una cartera en la calle. Me voy a Tokio con el abuelo..mp4"
+        },
+        {
+          "id": 62,
+          "title": "Como helado hecho en casa. Llevó a Nevado a vacunar. Vamos a un campamento.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/62 ShinChaneros - Como helado hecho en casa. Llevó a Nevado a vacunar. Vamos a un campamento..mp4"
+        },
+        {
+          "id": 63,
+          "title": "Voy a ser un cantante famoso. Jugamos a dibujar vías de tren. Hay una ola de calor.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/63 ShinChaneros - Voy a ser un cantante famoso. Jugamos a dibujar vías de tren. Hay una ola de calor..mp4"
+        },
+        {
+          "id": 64,
+          "title": "Paso la noche en casa de la señorita Yoshinaga. La vendedora a domicilio dice que no volverá. Vamos a instalar el aire acondicionado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/64 ShinChaneros - Paso la noche en casa de la señorita Yoshinaga. La vendedora a domicilio dice que no volverá. Vamos a instalar el aire acondicionado..mp4"
+        },
+        {
+          "id": 65,
+          "title": "Nos vamos a la gasolinera. Tenemos muchas sandías. Abrimos las sandías.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/65 ShinChaneros - Nos vamos a la gasolinera. Tenemos muchas sandías. Abrimos las sandías..mp4"
+        },
+        {
+          "id": 66,
+          "title": "La señorita Matsuzaka ha quedado con un chico. Me entreno para hacer sumo. Hoy es el campeonato de sumo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/66 ShinChaneros - La señorita Matsuzaka ha quedado con un chico. Me entreno para hacer sumo. Hoy es el campeonato de sumo..mp4"
+        },
+        {
+          "id": 67,
+          "title": "Papá renueva el carné de conducir. Nos vamos a atrapar insectos. Ayudo a mi madre a hacer el trabajo de casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/67 ShinChaneros - Papá renueva el carné de conducir. Nos vamos a atrapar insectos. Ayudo a mi madre a hacer el trabajo de casa..mp4"
+        },
+        {
+          "id": 68,
+          "title": "Un tifón provoca inundaciones. Conozco a tres chicas muy malas. Jugamos a atrapar la pelota.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/68 ShinChaneros - Un tifón provoca inundaciones. Conozco a tres chicas muy malas. Jugamos a atrapar la pelota..mp4"
+        },
+        {
+          "id": 69,
+          "title": "Hago de detective. Me tienen que llevar al hospital en ambulancia. En el hospital soy muy popular.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/69 ShinChaneros - Hago de detective. Me tienen que llevar al hospital en ambulancia. En el hospital soy muy popular..mp4"
+        },
+        {
+          "id": 70,
+          "title": "Keiko nos viene a visitar. Me entreno para el día del deporte. Papá me graba con una cámara.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/70 ShinChaneros - Keiko nos viene a visitar. Me entreno para el día del deporte. Papá me graba con una cámara..mp4"
+        },
+        {
+          "id": 71,
+          "title": "El robot Kuntam es invencible. Ensayamos una obra de teatro. Me cargo a los ogros del cuento. Nevado conoce a su primer amor. Estamos entre ninjas y samuráis.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/71 ShinChaneros - El robot Kuntam es invencible. Ensayamos una obra de teatro. Me cargo a los ogros del cuento. Nevado conoce a su primer amor. Estamos entre ninjas y samuráis. Seguimos entre ninjas y sam..mp4"
+        },
+        {
+          "id": 72,
+          "title": "Mamá hace régimen. Hacemos ejercicio al aire libre. Papá se ha quedado sin cejas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/72 ShinChaneros - Mamá hace régimen. Hacemos ejercicio al aire libre. Papá se ha quedado sin cejas..mp4"
+        },
+        {
+          "id": 73,
+          "title": "Hacemos un palanquín. Llevamos cosas al mercado de segunda mano. Vamos a vender al mercado de segunda mano.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/73 ShinChaneros - Hacemos un palanquín. Llevamos cosas al mercado de segunda mano. Vamos a vender al mercado de segunda mano..mp4"
+        },
+        {
+          "id": 74,
+          "title": "Hay que arreglar la canalización. El sushi recién hecho me gusta mucho. Tengo un pollito.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/74 ShinChaneros - Hay que arreglar la canalización. El sushi recién hecho me gusta mucho. Tengo un pollito..mp4"
+        },
+        {
+          "id": 75,
+          "title": "Las gallinas se han escapado. Ayudo a mamá a tender la ropa. Vamos a casa de Keiko.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/75 ShinChaneros - Las gallinas se han escapado. Ayudo a mamá a tender la ropa. Vamos a casa de Keiko..mp4"
+        },
+        {
+          "id": 76,
+          "title": "Fumie y yo jugamos a profesores. Hacemos una parrillada. Papá está deprimido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/76 ShinChaneros - Fumie y yo jugamos a profesores. Hacemos una parrillada. Papá está deprimido..mp4"
+        },
+        {
+          "id": 77,
+          "title": "Mamá se viste de colegiala. Vamos a jugar a una casa de muestra. Nos hacemos una foto de familia.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/77 ShinChaneros - Mamá se viste de colegiala. Vamos a jugar a una casa de muestra. Nos hacemos una foto de familia..mp4"
+        },
+        {
+          "id": 78,
+          "title": "Aprendo a coser. No me gusta que me pongan inyecciones. Tenemos un invitado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/78 ShinChaneros - Aprendo a coser. No me gusta que me pongan inyecciones. Tenemos un invitado..mp4"
+        },
+        {
+          "id": 79,
+          "title": "Mamá ya no me riñe. A papá no le gustan los gatos. Regreso a la librería.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/79 ShinChaneros - Mamá ya no me riñe. A papá no le gustan los gatos. Regreso a la librería..mp4"
+        },
+        {
+          "id": 80,
+          "title": "Comemos sopa de fideos. Tengo talento para el patinaje. Keiko y su marido han discutido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/80 ShinChaneros - Comemos sopa de fideos. Tengo talento para el patinaje. Keiko y su marido han discutido..mp4"
+        },
+        {
+          "id": 81,
+          "title": "Hacemos galletas en casa. La señorita Matsuzaka ha quedado con otro chico. Ganar las elecciones no es fácil.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/81 ShinChaneros - Hacemos galletas en casa. La señorita Matsuzaka ha quedado con otro chico. Ganar las elecciones no es fácil..mp4"
+        },
+        {
+          "id": 82,
+          "title": "Ayudo a mamá a hacer punto. Subo al tren en hora punta. Me quedo en el trabajo con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/82 ShinChaneros - Ayudo a mamá a hacer punto. Subo al tren en hora punta. Me quedo en el trabajo con papá..mp4"
+        },
+        {
+          "id": 83,
+          "title": "Las promesas a mamá. Veo una peli de Ultrahéroe. Me encanta el robot Kuntam. Es la fiesta de Navidad de la guardería. Quiero regalos de Navidad. Viajo al país del invierno.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/83 ShinChaneros - Las promesas a mamá. Veo una peli de Ultrahéroe. Me encanta el robot Kuntam. Es la fiesta de Navidad de la guardería. Quiero regalos de Navidad. Viajo al país del invierno..mp4"
+        },
+        {
+          "id": 84,
+          "title": "Soy modelo. Limpiamos la clase. Yo también oí las campanadas de fin de año.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_2/84 ShinChaneros - Soy modelo. Limpiamos la clase. Yo también oí las campanadas de fin de año..mp4"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Season 3",
+      "episodes": [
+        {
+          "id": 85,
+          "title": "Me dan la propina de fin de año. Voy a comprar con la propina. Los abuelos vienen a casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/85 ShinChaneros - Me dan la propina de fin de año. Voy a comprar con la propina. Los abuelos vienen a casa..mp4"
+        },
+        {
+          "id": 86,
+          "title": "Vamos a esquiar con la escuela. Vamos a esquiar. Se acaba la jornada de esquí. Alegría en la cabaña. Hoy esquiamos en familia. Despistados en las pistas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/86 ShinChaneros - Vamos a esquiar con la escuela. Vamos a esquiar. Se acaba la jornada de esquí. Alegría en la cabaña. Hoy esquiamos en familia. Despistados en las pistas..mp4"
+        },
+        {
+          "id": 87,
+          "title": "Las tácticas de mamá para que no pierda el autobús funcionan. Masao se ha enamorado. Como arroz con semillas de soja.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/87 ShinChaneros - Las tácticas de mamá para que no pierda el autobús funcionan. Masao se ha enamorado. Como arroz con semillas de soja..mp4"
+        },
+        {
+          "id": 88,
+          "title": "Me voy de jugar a un colegio de chicas. En la tele hacen una serie que se llama como yo. Imito al Shin-chan de la tele.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/88 ShinChaneros - Me voy de jugar a un colegio de chicas. En la tele hacen una serie que se llama como yo. Imito al Shin-chan de la tele..mp4"
+        },
+        {
+          "id": 89,
+          "title": "Jugamos a la lotería. Vamos a un entierro. Hacemos una guerra de bolas de nieve.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/89 ShinChaneros - Jugamos a la lotería. Vamos a un entierro. Hacemos una guerra de bolas de nieve..mp4"
+        },
+        {
+          "id": 90,
+          "title": "Mamá me corta el pelo. Kazama está enfermo. Vamos a visitar al jefe de papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/90 ShinChaneros - Mamá me corta el pelo. Kazama está enfermo. Vamos a visitar al jefe de papá..mp4"
+        },
+        {
+          "id": 91,
+          "title": "Regresa Pregunta el gato misterioso. Mamá me limpia los oídos. Mamá ha quedado con sus excompañeros de clase.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/91 ShinChaneros - Regresa Pregunta el gato misterioso. Mamá me limpia los oídos. Mamá ha quedado con sus excompañeros de clase..mp4"
+        },
+        {
+          "id": 92,
+          "title": "Jugamos al béisbol. Play Ball. Seguimos jugando al béisbol. Papá y mamá se quieren divorciar. Vamos a divorciarnos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/92 ShinChaneros - Jugamos al béisbol. Play Ball. Seguimos jugando al béisbol. Papá y mamá se quieren divorciar. Vamos a divorciarnos..mp4"
+        },
+        {
+          "id": 93,
+          "title": "Me baño solo. Hacemos una carrera de triciclos. Vamos a cenar a un bufé libre.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/93 ShinChaneros - Me baño solo. Hacemos una carrera de triciclos. Vamos a cenar a un bufé libre..mp4"
+        },
+        {
+          "id": 94,
+          "title": "Vamos al museo de arte. Hago de Kazama. El superior de papá viene a casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/94 ShinChaneros - Vamos al museo de arte. Hago de Kazama. El superior de papá viene a casa..mp4"
+        },
+        {
+          "id": 95,
+          "title": "Papá está enfermo. Voy a comprar cosméticos con mamá. Tendré un hermanito.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/95 ShinChaneros - Papá está enfermo. Voy a comprar cosméticos con mamá. Tendré un hermanito..mp4"
+        },
+        {
+          "id": 96,
+          "title": "Vamos a un parque temático. Vamos a otro parque temático. Hace mucho viento.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/96 ShinChaneros - Vamos a un parque temático. Vamos a otro parque temático. Hace mucho viento..mp4"
+        },
+        {
+          "id": 97,
+          "title": "Vuelve a ser la fiesta de los cerezos. La señorita Yoshinaga y mamá se hacen amigas. La vecina me ayuda a cocinar.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/97 ShinChaneros - Vuelve a ser la fiesta de los cerezos. La señorita Yoshinaga y mamá se hacen amigas. La vecina me ayuda a cocinar..mp4"
+        },
+        {
+          "id": 99,
+          "title": "Nos vamos a buscar conchas. Mamá pierde toda la paga del mes. Mamá nos obliga a ahorrar.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/99 ShinChaneros - Nos vamos a buscar conchas. Mamá pierde toda la paga del mes. Mamá nos obliga a ahorrar..mp4"
+        },
+        {
+          "id": 100,
+          "title": "El director juega con nosotros a papás y mamás. Peligro niños jugando. Mamá quiere sacarse el carné de conducir. Mamá quiere manejar. Acompañó a mamá a la autoescuela. Mamá aprende a conducir.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/100 ShinChaneros - El director juega con nosotros a papás y mamás. Peligro niños jugando. Mamá quiere sacarse el carné de conducir. Mamá quiere manejar. Acompañó a mamá a la autoescuela. Mamá aprende a co.mp4"
+        },
+        {
+          "id": 101,
+          "title": "Quiero comer galletas de las buenas. Quiero galletas. La señorita Matsuzaka está cansada. Mi cita con la Señorita Uma. Mamá se va de casa. Mamá se fuga.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/101 ShinChaneros - Quiero comer galletas de las buenas. Quiero galletas. La señorita Matsuzaka está cansada. Mi cita con la Señorita Uma. Mamá se va de casa. Mamá se fuga..mp4"
+        },
+        {
+          "id": 102,
+          "title": "Mamá todavía va a la autoescuela. Hemos visto un ovni. Firmó libros.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/102 ShinChaneros - Mamá todavía va a la autoescuela. Hemos visto un ovni. Firmó libros..mp4"
+        },
+        {
+          "id": 103,
+          "title": "Dejamos la ropa de invierno y sacamos la de verano. Vamos a comer carne a la plancha. Vamos a las carreras de caballos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/103 ShinChaneros - Dejamos la ropa de invierno y sacamos la de verano. Vamos a comer carne a la plancha. Vamos a las carreras de caballos..mp4"
+        },
+        {
+          "id": 104,
+          "title": "Mamá me lleva a la escuela en bici. Mamá se saca finalmente el carné de conducir. Mamá me lleva a la escuela en coche.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/104 ShinChaneros - Mamá me lleva a la escuela en bici. Mamá se saca finalmente el carné de conducir. Mamá me lleva a la escuela en coche..mp4"
+        },
+        {
+          "id": 105,
+          "title": "Resulta que soy un buen chico. Nos vamos a jugar a los bolos. Cuidamos a otro perro.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/105 ShinChaneros - Resulta que soy un buen chico. Nos vamos a jugar a los bolos. Cuidamos a otro perro..mp4"
+        },
+        {
+          "id": 106,
+          "title": "Nos vamos a un partido de béisbol. Vuelven las chicas del Ejército Escarlata. Ryūko se ha enamorado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/106 ShinChaneros - Nos vamos a un partido de béisbol. Vuelven las chicas del Ejército Escarlata. Ryūko se ha enamorado..mp4"
+        },
+        {
+          "id": 107,
+          "title": "Juego con papá. Vamos de excursión a la montaña. Voy a comprar al supermercado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/107 ShinChaneros - Juego con papá. Vamos de excursión a la montaña. Voy a comprar al supermercado..mp4"
+        },
+        {
+          "id": 108,
+          "title": "Que vamos al zoo. Salimos en la tele. Tenemos goteras.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/108 ShinChaneros - Que vamos al zoo. Salimos en la tele. Tenemos goteras..mp4"
+        },
+        {
+          "id": 109,
+          "title": "Me voy de casa. Hacemos una competición de natación. Vamos a jugar a las máquinas tragaperras.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/109 ShinChaneros - Me voy de casa. Hacemos una competición de natación. Vamos a jugar a las máquinas tragaperras..mp4"
+        },
+        {
+          "id": 110,
+          "title": "La vida de mamá es muy dura. Buscamos la gatita de Nené. Vamos a mirar coches.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/110 ShinChaneros - La vida de mamá es muy dura. Buscamos la gatita de Nené. Vamos a mirar coches..mp4"
+        },
+        {
+          "id": 111,
+          "title": "Plantamos cara a unos matones. Voy a la playa y me lo paso muy bien. Vamos en barca.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/111 ShinChaneros - Plantamos cara a unos matones. Voy a la playa y me lo paso muy bien. Vamos en barca..mp4"
+        },
+        {
+          "id": 112,
+          "title": "Vamos a acampar. Pasamos mucho miedo. Nos ha tocado un melón.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/112 ShinChaneros - Vamos a acampar. Pasamos mucho miedo. Nos ha tocado un melón..mp4"
+        },
+        {
+          "id": 113,
+          "title": "Papá no puede dormir. Llueve mucho y tengo que cobijarme. Nos vamos al acuario.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/113 ShinChaneros - Papá no puede dormir. Llueve mucho y tengo que cobijarme. Nos vamos al acuario..mp4"
+        },
+        {
+          "id": 114,
+          "title": "Nos damos un chapuzón en la piscina. Dibujo cómics. Vuelvo a ver a Ultrahéroe.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/114 ShinChaneros - Nos damos un chapuzón en la piscina. Dibujo cómics. Vuelvo a ver a Ultrahéroe..mp4"
+        },
+        {
+          "id": 115,
+          "title": "Escribo un diario. La piscina pública es genial. Ayudamos a Keiko con la mudanza.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/115 ShinChaneros - Escribo un diario. La piscina pública es genial. Ayudamos a Keiko con la mudanza..mp4"
+        },
+        {
+          "id": 116,
+          "title": "Voy a la oficina de correos. Entramos en el pasaje del terror. Mamá está en huelga.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/116 ShinChaneros - Voy a la oficina de correos. Entramos en el pasaje del terror. Mamá está en huelga..mp4"
+        },
+        {
+          "id": 117,
+          "title": "Plantamos pimientos. Papá deja de fumar. Me encuentro a la señorita Matsuzaka.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/117 ShinChaneros - Plantamos pimientos. Papá deja de fumar. Me encuentro a la señorita Matsuzaka..mp4"
+        },
+        {
+          "id": 118,
+          "title": "Que lavo los cubiertos. Vamos a los baños públicos. Nos quedamos a comer en los baños públicos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/118 ShinChaneros - Que lavo los cubiertos. Vamos a los baños públicos. Nos quedamos a comer en los baños públicos..mp4"
+        },
+        {
+          "id": 119,
+          "title": "Vuelvo a perderme en el centro comercial. Papá le pone los cuernos a mamá. Los padres no deben meter las narices en cosas de niños.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/119 ShinChaneros - Vuelvo a perderme en el centro comercial. Papá le pone los cuernos a mamá. Los padres no deben meter las narices en cosas de niños..mp4"
+        },
+        {
+          "id": 120,
+          "title": "Vamos a pescar. Conozco a una superdotada. Vamos a buscar a papá en coche.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/120 ShinChaneros - Vamos a pescar. Conozco a una superdotada. Vamos a buscar a papá en coche..mp4"
+        },
+        {
+          "id": 121,
+          "title": "Caja de juguetes. La señorita Yoshinaga se enamora. Mamá se lía a hacer yoga. Lo mío es trepar a los árboles. Ultrahéroe está al límite. Papá me lleva de viaje. Las aventuras del cerdito.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/121 ShinChaneros - Caja de juguetes. La señorita Yoshinaga se enamora. Mamá se lía a hacer yoga. Lo mío es trepar a los árboles. Ultrahéroe está al límite. Papá me lleva de viaje. Las aventuras del cerdit.mp4"
+        },
+        {
+          "id": 122,
+          "title": "Nos vamos a comer curry. No soporto sacar a pasear a Nevado. Hacemos competiciones.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/122 ShinChaneros - Nos vamos a comer curry. No soporto sacar a pasear a Nevado. Hacemos competiciones..mp4"
+        },
+        {
+          "id": 123,
+          "title": "Jugamos al tenis. Nos vamos todos de casa. Keiko tiene un niño en la tripa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/123 ShinChaneros - Jugamos al tenis. Nos vamos todos de casa. Keiko tiene un niño en la tripa..mp4"
+        },
+        {
+          "id": 124,
+          "title": "Tenemos un fax. Soy un gran pintor. Me tuerzo un tobillo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/124 ShinChaneros - Tenemos un fax. Soy un gran pintor. Me tuerzo un tobillo..mp4"
+        },
+        {
+          "id": 125,
+          "title": "Hay un cuervo que ronda la casa. Me peleo con Kazama. No pienso comerme el pimiento.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/125 ShinChaneros - Hay un cuervo que ronda la casa. Me peleo con Kazama. No pienso comerme el pimiento..mp4"
+        },
+        {
+          "id": 126,
+          "title": "Vamos a dar una vuelta en barco. Ordenar los juguetes es muy aburrido. Comemos un supermenú de fideos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/126 ShinChaneros - Vamos a dar una vuelta en barco. Ordenar los juguetes es muy aburrido. Comemos un supermenú de fideos..mp4"
+        },
+        {
+          "id": 127,
+          "title": "Los helados me vuelven loco. Kazama se va. Mamá no se acuerda de mí.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/127 ShinChaneros - Los helados me vuelven loco. Kazama se va. Mamá no se acuerda de mí..mp4"
+        },
+        {
+          "id": 128,
+          "title": "Me echo la siesta. Como con Nené. Me voy a cortar el pelo con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/128 ShinChaneros - Me echo la siesta. Como con Nené. Me voy a cortar el pelo con papá..mp4"
+        },
+        {
+          "id": 129,
+          "title": "Jugamos al escondite. Acompañó a Keiko a las clases de pre-parto. Mamá trabaja.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/129 ShinChaneros - Jugamos al escondite. Acompañó a Keiko a las clases de pre-parto. Mamá trabaja..mp4"
+        },
+        {
+          "id": 130,
+          "title": "La señorita Matsuzaka va a los grandes almacenes. Cambio de mamá. No podemos entrar en casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/130 ShinChaneros - La señorita Matsuzaka va a los grandes almacenes. Cambio de mamá. No podemos entrar en casa..mp4"
+        },
+        {
+          "id": 131,
+          "title": "Buscamos a una chica que ha perdido el pañuelo. Mamá está trompa. Tenemos que irnos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/131 ShinChaneros - Buscamos a una chica que ha perdido el pañuelo. Mamá está trompa. Tenemos que irnos..mp4"
+        },
+        {
+          "id": 132,
+          "title": "Nos quedamos a oscuras. Viene un profe nuevo de prácticas. Nos encontramos un pajarito herido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/132 ShinChaneros - Nos quedamos a oscuras. Viene un profe nuevo de prácticas. Nos encontramos un pajarito herido..mp4"
+        },
+        {
+          "id": 133,
+          "title": "Escribo las postales de año nuevo. Trabajar de mensajero es muy duro. Cambiamos los planes de la Señorita Yoshinaga.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/133 ShinChaneros - Escribo las postales de año nuevo. Trabajar de mensajero es muy duro. Cambiamos los planes de la Señorita Yoshinaga..mp4"
+        },
+        {
+          "id": 134,
+          "title": "Va a nacer un bebé. Llega la última batalla de Kantam. Una vez al año hay que hacer limpieza. Soy vendedor de cerillas. Hay cena de Nochevieja.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_3/134 ShinChaneros - Va a nacer un bebé. Llega la última batalla de Kantam. Una vez al año hay que hacer limpieza. Soy vendedor de cerillas. Hay cena de Nochevieja..mp4"
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Season 4",
+      "episodes": [
+        {
+          "id": 135,
+          "title": "Celebramos el fin de año. Nos vamos a esquiar. Revolucionamos las pistas de esquí.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/135 ShinChaneros - Celebramos el fin de año. Nos vamos a esquiar. Revolucionamos las pistas de esquí..mp4"
+        },
+        {
+          "id": 136,
+          "title": "Descubro un incendio. Masao es un ligón. La pasta de arroz es buenísima.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/136 ShinChaneros - Descubro un incendio. Masao es un ligón. La pasta de arroz es buenísima..mp4"
+        },
+        {
+          "id": 137,
+          "title": "Viene la tía Masae. Hace mucho frío. Estoy resfriado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/137 ShinChaneros - Viene la tía Masae. Hace mucho frío. Estoy resfriado..mp4"
+        },
+        {
+          "id": 138,
+          "title": "He quedado con una niña. Me encanta la lucha libre femenina. Quitar la nieve es muy divertido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/138 ShinChaneros - He quedado con una niña. Me encanta la lucha libre femenina. Quitar la nieve es muy divertido..mp4"
+        },
+        {
+          "id": 139,
+          "title": "Vamos a ver al hijo de Keiko. Kazama se enfada con su mamá. Conduzco el coche.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/139 ShinChaneros - Vamos a ver al hijo de Keiko. Kazama se enfada con su mamá. Conduzco el coche..mp4"
+        },
+        {
+          "id": 140,
+          "title": "Hago grafitis en una pared. Compramos una bolsa de la suerte. Viene una estudiante a casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/140 ShinChaneros - Hago grafitis en una pared. Compramos una bolsa de la suerte. Viene una estudiante a casa..mp4"
+        },
+        {
+          "id": 141,
+          "title": "Juego con los pañuelos de papel. Hacemos la siesta en el colegio. Vamos a mirar las estrellas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/141 ShinChaneros - Juego con los pañuelos de papel. Hacemos la siesta en el colegio. Vamos a mirar las estrellas..mp4"
+        },
+        {
+          "id": 142,
+          "title": "Hago caligrafía. Voy a la tele. Se estropea la tele.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/142 ShinChaneros - Hago caligrafía. Voy a la tele. Se estropea la tele..mp4"
+        },
+        {
+          "id": 143,
+          "title": "En la mesa se han de tener buenas maneras. Tengo que llevar unos papeles a la vecina. Voy con mamá a la librería.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/143 ShinChaneros - En la mesa se han de tener buenas maneras. Tengo que llevar unos papeles a la vecina. Voy con mamá a la librería..mp4"
+        },
+        {
+          "id": 144,
+          "title": "Me baño con Nevado. Ayudamos a un chico a declararse. El amor hace sufrir mucho.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/144 ShinChaneros - Me baño con Nevado. Ayudamos a un chico a declararse. El amor hace sufrir mucho..mp4"
+        },
+        {
+          "id": 145,
+          "title": "Nos encontramos una serpiente. Dormimos en un hotel de lujo. Vamos al parque de atracciones.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/145 ShinChaneros - Nos encontramos una serpiente. Dormimos en un hotel de lujo. Vamos al parque de atracciones..mp4"
+        },
+        {
+          "id": 146,
+          "title": "Tengo vacaciones de primavera. Nevado está enfermo. La fiesta de los cerezos es una juerga.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/146 ShinChaneros - Tengo vacaciones de primavera. Nevado está enfermo. La fiesta de los cerezos es una juerga..mp4"
+        },
+        {
+          "id": 147,
+          "title": "Viene el trapero para llevarse mis cómics. Mamá estropea la tele. Nevado se enamora.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/147 ShinChaneros - Viene el trapero para llevarse mis cómics. Mamá estropea la tele. Nevado se enamora..mp4"
+        },
+        {
+          "id": 148,
+          "title": "Vemos a Shin-Chan en la prehistoria. Se pelean por las judías. Boo-Chan se declara. Nevado se nos emborracha.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/148 ShinChaneros - Vemos a Shin-Chan en la prehistoria. Se pelean por las judías. Boo-Chan se declara. Nevado se nos emborracha..mp4"
+        },
+        {
+          "id": 149,
+          "title": "Queremos ir de excursión. Quiero una habitación para mí solo. El amor es ciego.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/149 ShinChaneros - Queremos ir de excursión. Quiero una habitación para mí solo. El amor es ciego..mp4"
+        },
+        {
+          "id": 150,
+          "title": "Mamá ya es una gran conductora. Mamá tiene un accidente. La señorita Matsuzaka se enamora.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/150 ShinChaneros - Mamá ya es una gran conductora. Mamá tiene un accidente. La señorita Matsuzaka se enamora..mp4"
+        },
+        {
+          "id": 151,
+          "title": "He conocido a una actriz famosa. Formamos el Ejército de Kasukabe. Espiamos a los enamorados.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/151 ShinChaneros - He conocido a una actriz famosa. Formamos el Ejército de Kasukabe. Espiamos a los enamorados..mp4"
+        },
+        {
+          "id": 152,
+          "title": "Vamos a ver Sumo. La señorita Yoshinaga se emborracha. Papá se lleva trabajo a casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/152 ShinChaneros - Vamos a ver Sumo. La señorita Yoshinaga se emborracha. Papá se lleva trabajo a casa..mp4"
+        },
+        {
+          "id": 153,
+          "title": "Destinan a papá a Osaka. Papá se va. Vamos a decir adiós a papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/153 ShinChaneros - Destinan a papá a Osaka. Papá se va. Vamos a decir adiós a papá..mp4"
+        },
+        {
+          "id": 154,
+          "title": "Papá ya está en Osaka. Jugar al béisbol puede ser peligroso. Lío una muy gorda.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/154 ShinChaneros - Papá ya está en Osaka. Jugar al béisbol puede ser peligroso. Lío una muy gorda..mp4"
+        },
+        {
+          "id": 155,
+          "title": "Los niños no beben café. Voy a ver a Nené. El abuelo nos viene a ayudar.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/155 ShinChaneros - Los niños no beben café. Voy a ver a Nené. El abuelo nos viene a ayudar..mp4"
+        },
+        {
+          "id": 156,
+          "title": "Nos encontramos al director de la escuela en el tren. Papá se mete en un buen lío. Salimos a cenar en Osaka.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/156 ShinChaneros - Nos encontramos al director de la escuela en el tren. Papá se mete en un buen lío. Salimos a cenar en Osaka..mp4"
+        },
+        {
+          "id": 157,
+          "title": "Compramos un montón de cosas. Nos vamos a ver los pájaros. Hacemos un vídeo para papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/157 ShinChaneros - Compramos un montón de cosas. Nos vamos a ver los pájaros. Hacemos un vídeo para papá..mp4"
+        },
+        {
+          "id": 158,
+          "title": "Vuelve papá. Vuelvo a hacer la puñeta a las del Ejército Escarlata. Hacemos bolitas de pulpo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/158 ShinChaneros - Vuelve papá. Vuelvo a hacer la puñeta a las del Ejército Escarlata. Hacemos bolitas de pulpo..mp4"
+        },
+        {
+          "id": 159,
+          "title": "Juego con el hijo de Keiko. Ir a pescar se ha puesto de moda. Subo a la guardilla.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/159 ShinChaneros - Juego con el hijo de Keiko. Ir a pescar se ha puesto de moda. Subo a la guardilla..mp4"
+        },
+        {
+          "id": 160,
+          "title": "Llueve a cántaros. Me levanto a medianoche. Es la fiesta de Tanabata.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/160 ShinChaneros - Llueve a cántaros. Me levanto a medianoche. Es la fiesta de Tanabata..mp4"
+        },
+        {
+          "id": 161,
+          "title": "Ligar no es tan fácil. A papá y a mamá les sienta mal la comida. Pasamos la noche en el hospital.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/161 ShinChaneros - Ligar no es tan fácil. A papá y a mamá les sienta mal la comida. Pasamos la noche en el hospital..mp4"
+        },
+        {
+          "id": 162,
+          "title": "El abuelo se va de casa. Nos lo pasamos muy bien con las chicas. El abuelo arma un escándalo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/162 ShinChaneros - El abuelo se va de casa. Nos lo pasamos muy bien con las chicas. El abuelo arma un escándalo..mp4"
+        },
+        {
+          "id": 163,
+          "title": "Juego con Kazama. Vamos a la piscina. Nos quedamos a comer a la piscina.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/163 ShinChaneros - Juego con Kazama. Vamos la piscina. Nos quedamos a comer a la piscina..mp4"
+        },
+        {
+          "id": 164,
+          "title": "Escojo el bañador de este año. Nos vamos de colonias. La señorita Matsuzaka está en peligro.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/164 ShinChaneros - Escojo el bañador de este año. Nos vamos de colonias. La señorita Matsuzaka está en peligro..mp4"
+        },
+        {
+          "id": 165,
+          "title": "Mamá se queda encerrada en el lavabo. La señorita Matsuzaka empeña las cosas. Vamos a ver los fuegos artificiales.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/165 ShinChaneros - Mamá se queda encerrada en el lavabo. La señorita Matsuzaka empeña las cosas. Vamos a ver los fuegos artificiales..mp4"
+        },
+        {
+          "id": 166,
+          "title": "Hago de canguro. Persigo a papá. Consigo darle el sobre a papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/166 ShinChaneros - Hago de canguro. Persigo a papá. Consigo darle el sobre a papá..mp4"
+        },
+        {
+          "id": 167,
+          "title": "Papá está soñando. Nené se enfada. Papá y mamá celebran el aniversario de su compromiso.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/167 ShinChaneros - Papá está soñando. Nené se enfada. Papá y mamá celebran el aniversario de su compromiso..mp4"
+        },
+        {
+          "id": 168,
+          "title": "Mamá me compra unos calzoncillos de Ultrahéroe. El viento se lleva mis calzoncillos. Presumo de calzoncillos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/168 ShinChaneros - Mamá me compra unos calzoncillos de Ultrahéroe. El viento se lleva mis calzoncillos. Presumo de calzoncillos..mp4"
+        },
+        {
+          "id": 169,
+          "title": "Juego a ser taxista. La aventura del oeste americano - El guardaespaldas Nohara. Me lo paso pipa en las máquinas. El mafioso es fotógrafo. Ultrahéroe se vuelve más poderoso.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/169 ShinChaneros - Juego a ser taxista. La aventura del oeste americano - El guardaespaldas Nohara. Me lo paso pipa en las máquinas. El mafioso es fotógrafo. Ultrahéroe se vuelve más poderoso. Mamá tiene .mp4"
+        },
+        {
+          "id": 170,
+          "title": "Hacemos una competición en el colegio. Papá vuelve a casa al amanecer. Mamá juega al golf.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/170 ShinChaneros - Hacemos una competición en el colegio. Papá vuelve a casa al amanecer. Mamá juega al golf..mp4"
+        },
+        {
+          "id": 171,
+          "title": "Soy el capitán Shin-chan. Papá tiene un encuentro de exalumnos. Nos lo pasamos muy bien en el encuentro de exalumnos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/171 ShinChaneros - Soy el capitán Shin-chan. Papá tiene un encuentro de exalumnos. Nos lo pasamos muy bien en el encuentro de exalumnos..mp4"
+        },
+        {
+          "id": 172,
+          "title": "Hago teatro. Me preparo fideos explosivos. Voy a buscar a mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/172 ShinChaneros - Hago teatro. Me preparo fideos explosivos. Voy a buscar a mamá..mp4"
+        },
+        {
+          "id": 173,
+          "title": "Papá tiene almorranas. Soy un ninja justiciero. Ingresan a papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/173 ShinChaneros - Papá tiene almorranas. Soy un ninja justiciero. Ingresan a papá..mp4"
+        },
+        {
+          "id": 174,
+          "title": "Operan a papá. Papá aún está ingresado. Compramos carne de primera.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/174 ShinChaneros - Operan a papá. Papá aún está ingresado. Compramos carne de primera..mp4"
+        },
+        {
+          "id": 175,
+          "title": "Shinnosuke y los tres ladrones. Ultrahéroe lucha contra las arañas robot. Amplío la caseta de Nevado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/175 ShinChaneros - Shinnosuke y los tres ladrones. Ultrahéroe lucha contra las arañas robot. Amplío la caseta de Nevado..mp4"
+        },
+        {
+          "id": 176,
+          "title": "Recojo las hojas muertas. Sacamos las estufas para el invierno. Nevado tiene una amiga secreta.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/176 ShinChaneros - Recojo las hojas muertas. Sacamos las estufas para el invierno. Nevado tiene una amiga secreta..mp4"
+        },
+        {
+          "id": 177,
+          "title": "Jugamos a pillar. Sigo a la señorita Yoshinaga. Gracias a mí la cita es un éxito.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/177 ShinChaneros - Jugamos a pillar. Sigo a la señorita Yoshinaga. Gracias a mí la cita es un éxito..mp4"
+        },
+        {
+          "id": 178,
+          "title": "Las chicas del Ejército Escarlata se enfadan mucho. Leer de gorra en la librería está prohibido. Mamá tiene unos ahorros escondidos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/178 ShinChaneros - Las chicas del Ejército Escarlata se enfadan mucho. Leer de gorra en la librería está prohibido. Mamá tiene unos ahorros escondidos..mp4"
+        },
+        {
+          "id": 179,
+          "title": "Todos tenemos fiebre. Ponemos en marcha el Ejército de Kasukabe. Nos bañamos con agua bien caliente para quitarnos el frío.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/179 ShinChaneros - Todos tenemos fiebre. Ponemos en marcha el Ejército de Kasukabe. Nos bañamos con agua bien caliente para quitarnos el frío..mp4"
+        },
+        {
+          "id": 180,
+          "title": "Quieren llevarse a la señorita Matsuzaka. Ultrahéroe lucha contra la amenaza tsunami. La cena de fin de año acaba en juerga.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/180 ShinChaneros - Quieren llevarse a la señorita Matsuzaka. Ultrahéroe lucha contra la amenaza tsunami. La cena de fin de año acaba en juerga..mp4"
+        },
+        {
+          "id": 181,
+          "title": "Las aventuras del cerdito valiente III - El asalto. Las aventuras del cerdito valiente IV - El rescate. Shin-Chan se pone dramático. Nevado lo pasa mal. El mono y el cangrejo se encuentran.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_4/181 ShinChaneros - Las aventuras del cerdito valiente III - El asalto. Las aventuras del cerdito valiente IV - El rescate. Shin-Chan se pone dramático. Nevado lo pasa mal. El mono y el cangrejo se encuentran..mp4"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Season 5",
+      "episodes": [
+        {
+          "id": 182,
+          "title": "Estoy harto de comer pasta de arroz. Vamos a buscar hierbas. Papá se queda sin dinero.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/182 ShinChaneros - Estoy harto de comer pasta de arroz. Vamos a buscar hierbas. Papá se queda sin dinero..mp4"
+        },
+        {
+          "id": 183,
+          "title": "Mamá va a la ceremonia de madurez. La estufa se ha estropeado y hace un frío que pela. Acompañó a papá a comprar ropa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/183 ShinChaneros - Mamá va a la ceremonia de madurez. La estufa se ha estropeado y hace un frío que pela. Acompañó a papá a comprar ropa..mp4"
+        },
+        {
+          "id": 184,
+          "title": "Mamá quiere adelgazar. Ultrahéroe contra el malvado Zweinbach. Mamá tiene un accidente.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/184 ShinChaneros - Mamá quiere adelgazar. Ultrahéroe contra el malvado Zweinbach. Mamá tiene un accidente..mp4"
+        },
+        {
+          "id": 185,
+          "title": "Encuentro el amor de mi vida. Quiero declararme al amor de mi vida. Juego al escondite con Nevado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/185 ShinChaneros - Encuentro el amor de mi vida. Quiero declararme al amor de mi vida. Juego al escondite con Nevado..mp4"
+        },
+        {
+          "id": 186,
+          "title": "Me quedo solo en casa con papá. Juego con la pelota nueva. Hay un ladrón de ropa interior en el barrio.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/186 ShinChaneros - Me quedo solo en casa con papá. Juego con la pelota nueva. Hay un ladrón de ropa interior en el barrio..mp4"
+        },
+        {
+          "id": 187,
+          "title": "Invitamos a Nanako a casa. Nos vamos a patinar. Hacemos una competición de patinaje.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/187 ShinChaneros - Invitamos a Nanako a casa. Nos vamos a patinar. Hacemos una competición de patinaje..mp4"
+        },
+        {
+          "id": 188,
+          "title": "Nanako me invita a su casa. Zweinbach descubre el punto débil de Ultrahéroe. Buscamos un perro perdido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/188 ShinChaneros - Nanako me invita a su casa. Zweinbach descubre el punto débil de Ultrahéroe. Buscamos un perro perdido..mp4"
+        },
+        {
+          "id": 189,
+          "title": "Me lo he cargado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/189 ShinChaneros - Me lo he cargado..mp4"
+        },
+        {
+          "id": 190,
+          "title": "Voy a casa de Nanako. Paso la noche con Nanako. Operó el radiocassette.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/190 ShinChaneros - Voy a casa de Nanako. Paso la noche con Nanako. Operó el radiocassette..mp4"
+        },
+        {
+          "id": 191,
+          "title": "Entra un mono en casa. Me crecen los pelos. La batalla decisiva de Ultrahéroe.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/191 ShinChaneros - Entra un mono en casa. Me crecen los pelos. La batalla decisiva de Ultrahéroe..mp4"
+        },
+        {
+          "id": 192,
+          "title": "Doy brillo a los zapatos. Ahora limpio los zapatos a la gente. Me encuentro la libreta secreta de Kazama.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/192 ShinChaneros - Doy brillo a los zapatos. Ahora limpio los zapatos a la gente. Me encuentro la libreta secreta de Kazama..mp4"
+        },
+        {
+          "id": 193,
+          "title": "Momotaro es mi amigo. Que no pare el cachondeo. Nevado tiene un mal día. Vuelve la vendedora del infierno.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/193 ShinChaneros - Momotaro es mi amigo. Que no pare el cachondeo. Nevado tiene un mal día. Vuelve la vendedora del infierno..mp4"
+        },
+        {
+          "id": 194,
+          "title": "Tengo el récord absoluto de llegar tarde a la escuela. Compro por catálogo. Duermo la mar de bien.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/194 ShinChaneros - Tengo el récord absoluto de llegar tarde a la escuela. Compro por catálogo. Duermo la mar de bien..mp4"
+        },
+        {
+          "id": 195,
+          "title": "La señorita Yoshinaga será feliz pronto. Nos vamos a comprar en taxi. Soy el rey de las meriendas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/195 ShinChaneros - La señorita Yoshinaga será feliz pronto. Nos vamos a comprar en taxi. Soy el rey de las miriendas..mp4"
+        },
+        {
+          "id": 196,
+          "title": "Nos vamos de viaje a Hokkaidō. Nos damos un buen atracón. Se nos estropea el coche de alquiler.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/196 ShinChaneros - Nos vamos de viaje a Hokkaidō. Nos damos un buen atracón. Se nos estropea el coche de alquiler..mp4"
+        },
+        {
+          "id": 197,
+          "title": "Nos vamos a ver una reserva de osos. Pasamos la noche en un hotel en ruinas. Ya nos vamos de Hokkaido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/197 ShinChaneros - Nos vamos a ver una reserva de osos. Pasamos la noche en un hotel en ruinas. Ya nos vamos de Hokkaido..mp4"
+        },
+        {
+          "id": 198,
+          "title": "Soy el perro de Flandes. Voy al festival cultural del instituto femenino. Nos vamos a mirar coches.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/198 ShinChaneros - Soy el perro de Flandes. Voy al festival cultural del instituto femenino. Nos vamos a mirar coches..mp4"
+        },
+        {
+          "id": 199,
+          "title": "Quizá sí nos tendríamos que comprar un coche nuevo. Plantar arroz es divertido. Hacer pipí sin salpicar no es tan fácil.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/199 ShinChaneros - Quizá sí nos tendríamos que comprar un coche nuevo. Plantar arroz es divertido. Hacer pipí sin salpicar no es tan fácil..mp4"
+        },
+        {
+          "id": 200,
+          "title": "Finalmente nos compramos el coche. Vamos a salvar animales. Salimos a comer al restaurante.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/200 ShinChaneros - Finalmente nos compramos el coche. Vamos a salvar animales. Salimos a comer al restaurante..mp4"
+        },
+        {
+          "id": 201,
+          "title": "Papá y mamá se pelean de lo lindo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/201 ShinChaneros - Papá y mamá se pelean de lo lindo..mp4"
+        },
+        {
+          "id": 202,
+          "title": "Mamá y yo vamos a ballet. Juego al pilla-pilla con Nanako. A mamá sólo le quedan tres meses de vida.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/202 ShinChaneros - Mamá y yo vamos a ballet. Juego al pilla-pilla con Nanako. A mamá sólo le quedan tres meses de vida..mp4"
+        },
+        {
+          "id": 203,
+          "title": "Soy Son Gokū. Quiero el autógrafo de un dibujante de cómics. Aprendemos a hacer el boca a boca.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/203 ShinChaneros - Soy Son Gokū. Quiero el autógrafo de un dibujante de cómics. Aprendemos a hacer el boca a boca..mp4"
+        },
+        {
+          "id": 204,
+          "title": "Mamá está embarazada de 3 meses. Quiero ser coleccionista. Leer de gorra es un vicio.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/204 ShinChaneros - Mamá está embarazada de 3 meses. Quiero ser coleccionista. Leer de gorra es un vicio..mp4"
+        },
+        {
+          "id": 205,
+          "title": "La educación prenatal es muy importante. Kazama se enamora. Queremos ayudar a Kazama.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/205 ShinChaneros - La educación prenatal es muy importante. Kazama se enamora. Queremos ayudar a Kazama..mp4"
+        },
+        {
+          "id": 206,
+          "title": "La mujer de las nieves es terrorífica. La señorita Yoshinaga llora de alegría. El dentista no me da miedo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/206 ShinChaneros - La mujer de las nieves es terrorífica. La señorita Yoshinaga llora de alegría. El dentista no me da miedo..mp4"
+        },
+        {
+          "id": 207,
+          "title": "Tengo una mamá nueva. Hoy jugamos a buscar un tesoro en la piscina. Mamá no puede hacer esfuerzos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/207 ShinChaneros - Tengo una mamá nueva. Hoy jugamos a buscar un tesoro en la piscina. Mamá no puede hacer esfuerzos..mp4"
+        },
+        {
+          "id": 208,
+          "title": "Vamos de excursión a la montaña. Nos perdemos en la montaña. Aprendemos técnicas de supervivencia.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/208 ShinChaneros - Vamos de excursión a la montaña. Nos perdemos en la montaña. Aprendemos técnicas de supervivencia..mp4"
+        },
+        {
+          "id": 209,
+          "title": "Mamá quiere que seamos más refinados. Érase una vez el cuento de la tortuga y de la liebre. Las chicas del Ejército Escarlata trabajan en una piscina.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/209 ShinChaneros - Mamá quiere que seamos más refinados. Érase una vez el cuento de la tortuga y de la liebre. Las chicas del Ejército Escarlata trabajan en una piscina..mp4"
+        },
+        {
+          "id": 210,
+          "title": "Las aventuras del cerdito valiente - El castillo monstruoso.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/210 ShinChaneros - Las aventuras del cerdito valiente - El castillo monstruoso..mp4"
+        },
+        {
+          "id": 211,
+          "title": "Hoy sabremos si tendré un hermanito o una hermanita. Hacemos de ayudantes de un dibujante de cómics. Voy al parque con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/211 ShinChaneros - Hoy sabremos si tendré un hermanito o una hermanita. Hacemos de ayudantes de un dibujante de cómics. Voy al parque con papá..mp4"
+        },
+        {
+          "id": 212,
+          "title": "Papá recibe una carta de amor. Se monta un buen pitote por culpa de la carta. Llevamos a Hitoshi al parque por primera vez.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/212 ShinChaneros - Papá recibe una carta de amor. Se monta un buen pitote por culpa de la carta. Llevamos a Hitoshi al parque por primera vez..mp4"
+        },
+        {
+          "id": 213,
+          "title": "Vuelve la tita Masae. Miho vuelve a estar enamorada. Nos preparamos para cuando mamá vaya de parto.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/213 ShinChaneros - Vuelve la tita Masae. Miho vuelve a estar enamorada. Nos preparamos para cuando mamá vaya de parto..mp4"
+        },
+        {
+          "id": 214,
+          "title": "Soy el famoso Shinnocho. Tenemos que recuperar la pelota. Soy el guardaespaldas de mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/214 ShinChaneros - Soy el famoso Shinnocho. Tenemos que recuperar la pelota. Soy el guardaespaldas de mamá..mp4"
+        },
+        {
+          "id": 215,
+          "title": "Soy Astro Shin-Chan. Papá también pasa lo suyo. Está a punto de nacer. Que ya está aquí que ya nace. La niña ya ha nacido. Hoy toca popurrí de risas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/215 ShinChaneros - Soy Astro Shin-Chan. Papá también pasa lo suyo. Está a punto de nacer. Que ya está aquí que ya nace. La niña ya ha nacido. Hoy toca popurrí de risas..mp4"
+        },
+        {
+          "id": 216,
+          "title": "Mi hermanita llega a casa. Hago dormir a la niña. Tengo mucho sueño.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/216 ShinChaneros - Mi hermanita llega a casa. Hago dormir a la niña. Tengo mucho sueño..mp4"
+        },
+        {
+          "id": 217,
+          "title": "Nos hacemos una foto de familia. Tenemos que decidir el nombre de la niña. Finalmente decidimos cómo se llamará la niña. Presentamos el nombre de la niña .",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/217 ShinChaneros - Nos hacemos una foto de familia. Tenemos que decidir el nombre de la niña. Finalmente decidimos cómo se llamará la niña. Presentamos el nombre de la niña ..mp4"
+        },
+        {
+          "id": 218,
+          "title": "Soy un buen hermano. Hoy hay un combate. Vamos a comprar pañales a medianoche.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/218 ShinChaneros - Soy un buen hermano. Hoy hay un combate. Vamos a comprar pañales a medianoche..mp4"
+        },
+        {
+          "id": 219,
+          "title": "Presento a Himawari a mis amigos. Nos vamos de pícnic. El director de la escuela viene a casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/219 ShinChaneros - Presento a Himawari a mis amigos. Nos vamos de pícnic. El director de la escuela viene a casa..mp4"
+        },
+        {
+          "id": 220,
+          "title": "Nevado y yo nos vamos de casa. Aprendemos a hacer cerámica. Mamá quiere ganar puntos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/220 ShinChaneros - Nevado y yo nos vamos de casa. Aprendemos a hacer cerámica. Mamá quiere ganar puntos..mp4"
+        },
+        {
+          "id": 221,
+          "title": "Yo también quiero cuidar a Himawari. Volvemos a encontrar al dibujante de cómics. Abrimos una cuenta en el banco.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/221 ShinChaneros - Yo también quiero cuidar a Himawari. Volvemos a encontrar al dibujante de cómics. Abrimos una cuenta en el banco..mp4"
+        },
+        {
+          "id": 222,
+          "title": "Vienen los abuelos de Kyūshū. Salgo a pasear con los abuelos. Hago de oficinista.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/222 ShinChaneros - Vienen los abuelos de Kyūshū. Salgo a pasear con los abuelos. Hago de oficinista..mp4"
+        },
+        {
+          "id": 223,
+          "title": "Los abuelos compiten por todo. Jugamos a papás y a mamás. La señorita Matsuzaka busca novio.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/223 ShinChaneros - Los abuelos compiten por todo. Jugamos a papás y a mamás. La señorita Matsuzaka busca novio..mp4"
+        },
+        {
+          "id": 224,
+          "title": "Vamos de marcha con un cliente. A Himawari le ponen la primera inyección. Vuelvo a la sección de niños perdidos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/224 ShinChaneros - Vamos de marcha con un cliente. A Himawari le ponen la primera inyección. Vuelvo a la sección de niños perdidos..mp4"
+        },
+        {
+          "id": 225,
+          "title": "Vuelven los abuelos. Evitamos que roben en la pastelería. La señorita Matsuzaka tiene un ligue.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/225 ShinChaneros - Vuelven los abuelos. Evitamos que roben en la pastelería. La señorita Matsuzaka tiene un ligue..mp4"
+        },
+        {
+          "id": 226,
+          "title": "Celebramos la Navidad en la escuela. Vendo pasteles de Navidad. Viene Papá Noel.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/226 ShinChaneros - Celebramos la Navidad en la escuela. Vendo pasteles de Navidad. Viene Papá Noel..mp4"
+        },
+        {
+          "id": 227,
+          "title": "El detective Nohara entra en acción. Conozco a un genio de la cocina. Hacemos limpieza general. Revivimos el pasado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_5/227 ShinChaneros - El detective Nohara entra en acción. Conozco a un genio de la cocina. Hacemos limpieza general. Revivimos el pasado..mp4"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "Season 6",
+      "episodes": [
+        {
+          "id": 228,
+          "title": "Ya está aquí Shinchanator. Pasamos el año nuevo en familia. Este juego es tan real como la vida misma. Voy a comprar con los abuelos. Las hermanas Matsuzaka celebran el año nuevo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/228 ShinChaneros - Ya está aquí Shinchanator. Pasamos el año nuevo en familia. Este juego es tan real como la vida misma. Voy a comprar con los abuelos. Las hermanas Matsuzaka celebran el año nuevo..mp4"
+        },
+        {
+          "id": 229,
+          "title": "Himawari aprende a caminar a gatas. Ayudó a un niño que se ha perdido. La señorita Yoshinaga tiene un desengaño amoroso.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/229 ShinChaneros - Himawari aprende a caminar a gatas. Ayudó a un niño que se ha perdido. La señorita Yoshinaga tiene un desengaño amoroso..mp4"
+        },
+        {
+          "id": 230,
+          "title": "Hoy Nanako nos hace de mamá. Estoy muerto de frío. Hago carreras con el cochecillo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/230 ShinChaneros - Hoy Nanako nos hace de mamá. Estoy muerto de frío. Hago carreras con el cochecillo..mp4"
+        },
+        {
+          "id": 231,
+          "title": "Papá nos graba a Himawari y a mí. Soy el hermano mayor y quiero que me hagan caso. Tengo un viaje de negocios.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/231 ShinChaneros - Papá nos graba a Himawari y a mí. Soy el hermano mayor y quiero que me hagan caso. Tengo un viaje de negocios..mp4"
+        },
+        {
+          "id": 232,
+          "title": "Papá baña a Himawari. Conocemos a Marilyn. Quiero escaparme de la escuela.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/232 ShinChaneros - Papá baña a Himawari. Conocemos a Marilyn. Quiero escaparme de la escuela..mp4"
+        },
+        {
+          "id": 233,
+          "title": "Vamos a esquiar. Aprendo a esquiar con una monitora muy misteriosa. Después de esquiar nos vamos a la sala de juegos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/233 ShinChaneros - Vamos a esquiar. Aprendo a esquiar con una monitora muy misteriosa. Después de esquiar nos vamos a la sala de juegos..mp4"
+        },
+        {
+          "id": 234,
+          "title": "Celebramos el día de los enamorados. Vamos a jugar al golf. La señorita Matsuzaka también celebra el día de los enamorados.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/234 ShinChaneros - Celebramos el día de los enamorados. Vamos a jugar al golf. La señorita Matsuzaka también celebra el día de los enamorados..mp4"
+        },
+        {
+          "id": 235,
+          "title": "Vamos a comprar muñecas para la fiesta de las niñas. Nos visita Marilyn. Está nevando de lo lindo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/235 ShinChaneros - Vamos a comprar muñecas para la fiesta de las niñas. Nos visita Marilyn. Está nevando de lo lindo..mp4"
+        },
+        {
+          "id": 236,
+          "title": "Papá se deja unos documentos muy importantes en casa. Cogemos el tren. Nos perdemos por el camino.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/236 ShinChaneros - Papá se deja unos documentos muy importantes en casa. Cogemos el tren. Nos perdemos por el camino..mp4"
+        },
+        {
+          "id": 237,
+          "title": "Himawari desaparece. Tener un gato en casa da mucho trabajo. Jugamos con unas gafas muy especiales.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/237 ShinChaneros - Himawari desaparece. Tener un gato en casa da mucho trabajo. Jugamos con unas gafas muy especiales..mp4"
+        },
+        {
+          "id": 238,
+          "title": "Compramos ropa para Himawari. La gata de la señorita Matsuzaka se nos casa. Himawari no nos deja dormir.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/238 ShinChaneros - Compramos ropa para Himawari. La gata de la señorita Matsuzaka se nos casa. Himawari no nos deja dormir..mp4"
+        },
+        {
+          "id": 239,
+          "title": "Himawari no me quiere soltar. Quiero dejar mis huellas en el cemento. Pensamos en el futuro de Himawari.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/239 ShinChaneros - Himawari no me quiere soltar. Quiero dejar mis huellas en el cemento. Pensamos en el futuro de Himawari..mp4"
+        },
+        {
+          "id": 240,
+          "title": "Bañarse con Himawari es toda una aventura. A Himawari le hacen más caso que a mí. A la señorita Matsuzaka le gustan jovencitos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/240 ShinChaneros - Bañarse con Himawari es toda una aventura. A Himawari le hacen más caso que a mí. A la señorita Matsuzaka le gustan jovencitos..mp4"
+        },
+        {
+          "id": 241,
+          "title": "Somos el Príncipe Feliz y la golondrina Shinnosuke. Nos vamos de pícnic. Mi hermana las mata callando. Nené elige marido.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/241 ShinChaneros - Somos el Príncipe Feliz y la golondrina Shinnosuke. Nos vamos de pícnic. Mi hermana las mata callando. Nené elige marido..mp4"
+        },
+        {
+          "id": 242,
+          "title": "A Himawari le encantan las cosas brillantes. Vuelve a visitarnos la vendedora a domicilio. Las chicas del Ejército Escarlata hacen de canguro.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/242 ShinChaneros - A Himawari le encantan las cosas brillantes. Vuelve a visitarnos la vendedora a domicilio. Las chicas del Ejército Escarlata hacen de canguro..mp4"
+        },
+        {
+          "id": 243,
+          "title": "Hoy es el día de los niños. Nos invitan a la ceremonia del té. Tenemos que arreglar la carpa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/243 ShinChaneros - Hoy es el día de los niños. Nos invitan a la ceremonia del té. Tenemos que arreglar la carpa..mp4"
+        },
+        {
+          "id": 244,
+          "title": "He vuelto a perder el autobús. Hoy no saldremos de casa. Mamá tiene un mal día.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/244 ShinChaneros - He vuelto a perder el autobús. Hoy no saldremos de casa. Mamá tiene un mal día..mp4"
+        },
+        {
+          "id": 245,
+          "title": "Papá se va a hacer footing. Kazama es muy limpio. Volvemos a ir a ver al dibujante de cómics.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/245 ShinChaneros - Papá se va a hacer footing. Kazama es muy limpio. Volvemos a ir a ver al dibujante de cómics..mp4"
+        },
+        {
+          "id": 246,
+          "title": "Vamos a comprar con Himawari. Cuidar a Himawari cansa mucho. Salimos a cenar fuera.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/246 ShinChaneros - Vamos a comprar con Himawari. Cuidar a Himawari cansa mucho. Salimos a cenar fuera..mp4"
+        },
+        {
+          "id": 247,
+          "title": "Papá monta una maqueta. Kazama confía en mí. Soy un buen vendedor.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/247 ShinChaneros - Papá monta una maqueta. Kazama confía en mí. Soy un buen vendedor..mp4"
+        },
+        {
+          "id": 248,
+          "title": "Himawari se lo pasa muy bien sola. Masao tiene dolores de cabeza. Mamá quiere aprender informática.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/248 ShinChaneros - Himawari se lo pasa muy bien sola. Masao tiene dolores de cabeza. Mamá quiere aprender informática..mp4"
+        },
+        {
+          "id": 249,
+          "title": "Juego con una máquina para hacer masajes. La señorita Yoshinaga riñe con su novio. La señorita Dori quiere casarse.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/249 ShinChaneros - Juego con una máquina para hacer masajes. La señorita Yoshinaga riñe con su novio. La señorita Dori quiere casarse..mp4"
+        },
+        {
+          "id": 250,
+          "title": "Explicamos el cuento de Caperucita Roja y Caperucita Lila. Nos entrenamos para jugar al béisbol. Jugamos con las princesas del bate.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/250 ShinChaneros - Explicamos el cuento de Caperucita Roja y Caperucita Lila. Nos entrenamos para jugar al béisbol . Jugamos con las princesas del bate..mp4"
+        },
+        {
+          "id": 251,
+          "title": "Nevado cuida a Himawari. Hoy jugamos bajo la lluvia. La señorita Matsuzaka tiene un novio nuevo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/251 ShinChaneros - Nevado cuida a Himawari. Hoy jugamos bajo la lluvia . La señorita Matsuzaka tiene un novio nuevo..mp4"
+        },
+        {
+          "id": 252,
+          "title": "Vigilar a Himawari es muy pesado. La señorita Yoshinaga hace prácticas para cuando se case. Un pervertido sigue a Nanako.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/252 ShinChaneros - Vigilar a Himawari es muy pesado. La señorita Yoshinaga hace prácticas para cuando se case. Un pervertido sigue a Nanako..mp4"
+        },
+        {
+          "id": 253,
+          "title": "Los abuelos quieren cambiar. El director coge un nido de abejas. Himawari juega con un globo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/253 ShinChaneros - Los abuelos quieren cambiar. El director coge un nido de abejas. Himawari juega con un globo..mp4"
+        },
+        {
+          "id": 254,
+          "title": "Himawari desaparece sin dejar rastro. Lleno la piscina de plástico. Comemos cangrejos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/254 ShinChaneros - Himawari desaparece sin dejar rastro . Lleno la piscina de plástico. Comemos cangrejos..mp4"
+        },
+        {
+          "id": 255,
+          "title": "Sospecho que mamá le pone los cuernos a papá. Riego las flores del cole. Los mosquitos me torturan.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/255 ShinChaneros - Sospecho que mamá le pone los cuernos a papá. Riego las flores del cole. Los mosquitos me torturan..mp4"
+        },
+        {
+          "id": 256,
+          "title": "Buscamos a escarabajos cornudos. Las chicas del Ejército Escarlata están en la feria. Bañamos a Himawari en la piscina.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/256 ShinChaneros - Buscamos a escarabajos cornudos. Las chicas del Ejército Escarlata están en la feria. Bañamos a Himawari en la piscina..mp4"
+        },
+        {
+          "id": 257,
+          "title": "La muñeca francesa está maldita. ¿Qué pasa hoy en la escuela. Un fantasma nos invita a su casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/257 ShinChaneros - La muñeca francesa está maldita. ¿Qué pasa hoy en la escuela . Un fantasma nos invita a su casa..mp4"
+        },
+        {
+          "id": 258,
+          "title": "Hacemos cola para comprar los billetes del tren. El tren va lleno a rebosar. Nos lo pasamos muy bien en casa de los abuelos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/258 ShinChaneros - Hacemos cola para comprar los billetes del tren. El tren va lleno a rebosar. Nos lo pasamos muy bien en casa de los abuelos..mp4"
+        },
+        {
+          "id": 259,
+          "title": "Tengo un mapa del tesoro. El ejército de Kasukabe es muy agradecido. Ponemos aire acondicionado en casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/259 ShinChaneros - Tengo un mapa del tesoro. El ejército de Kasukabe es muy agradecido. Ponemos aire acondicionado en casa..mp4"
+        },
+        {
+          "id": 260,
+          "title": "Encontramos una gallina muy escandalosa. Cuidamos al director del colegio. Ayudó a papá a arrancar las malas hierbas del jardín.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/260 ShinChaneros - Encontramos una gallina muy escandalosa. Cuidamos al director del colegio. Ayudó a papá a arrancar las malas hierbas del jardín..mp4"
+        },
+        {
+          "id": 261,
+          "title": "Hoy va del oeste. Mamá hace ejercicio. Me bato en duelo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/261 ShinChaneros - Hoy va del oeste. Mamá hace ejercicio. Me bato en duelo..mp4"
+        },
+        {
+          "id": 262,
+          "title": "Yo ya soy mayor. Mamá quiere estar sola. Voy a comprar tofu.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/262 ShinChaneros - Yo ya soy mayor. Mamá quiere estar sola. Voy a comprar tofu..mp4"
+        },
+        {
+          "id": 263,
+          "title": "Conocemos a Michi y Yoshirin. Encontramos el borrador de un cómic de Usuto Yoshii. Vigilo a Himawari en los grandes almacenes.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/263 ShinChaneros - Conocemos a Michi y Yoshirin. Encontramos el borrador de un cómic de Usuto Yoshii. Vigilo a Himawari en los grandes almacenes..mp4"
+        },
+        {
+          "id": 264,
+          "title": "Papá va al trabajo aunque hay un tifón. Vienen a hacernos una encuesta. Yoshirin y Michi vienen a vivir al lado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/264 ShinChaneros - Papá va al trabajo aunque hay un tifón. Vienen a hacernos una encuesta. Yoshirin y Michi vienen a vivir al lado..mp4"
+        },
+        {
+          "id": 265,
+          "title": "Shin-Chan Wars. Himawari es una princesa. A mamá le sale una cana. Michi y Yoshirin se mudan. En una carrera lo que vale es la amistad.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/265 ShinChaneros - Shin-Chan Wars. Himawari es una princesa. A mamá le sale una cana. Michi y Yoshirin se mudan. En una carrera lo que vale es la amistad..mp4"
+        },
+        {
+          "id": 266,
+          "title": "Vamos a comprar golosinas para la excursión. Nos lo pasamos muy bien en la excursión. Me he vuelto a perder yendo de excursión.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/266 ShinChaneros - Vamos a comprar golosinas para la excursión. Nos lo pasamos muy bien en la excursión. Me he vuelto a perder yendo de excursión..mp4"
+        },
+        {
+          "id": 267,
+          "title": "Michi y Yoshirin se han peleado. Me dejan la casa para mí solito. En el recibidor se está de cine.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/267 ShinChaneros - Michi y Yoshirin se han peleado. Me dejan la casa para mí solito. En el recibidor se está de cine..mp4"
+        },
+        {
+          "id": 268,
+          "title": "¿Está borracha Himawari. Vamos en busca del perro de tres ojos. Papá tiene que levantarse temprano y decide no dormir.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/268 ShinChaneros - ¿Está borracha Himawari . Vamos en busca del perro de tres ojos. Papá tiene que levantarse temprano y decide no dormir..mp4"
+        },
+        {
+          "id": 269,
+          "title": "Tengo que pensar un regalo para Nanako. La señorita Yoshinaga busca piso. Jugamos con la linterna.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/269 ShinChaneros - Tengo que pensar un regalo para Nanako. La señorita Yoshinaga busca piso. Jugamos con la linterna..mp4"
+        },
+        {
+          "id": 270,
+          "title": "Preparo arroz con curry. Jugamos al Ultrahéroe. Se nos cierra el coche con las llaves dentro.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/270 ShinChaneros - Preparo arroz con curry. Jugamos al Ultrahéroe. Se nos cierra el coche con las llaves dentro..mp4"
+        },
+        {
+          "id": 271,
+          "title": "Himawari es modelo. Descubrimos un cofre enterrado. Mamá tiene un pasado oculto.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/271 ShinChaneros - Himawari es modelo. Descubrimos un cofre enterrado. Mamá tiene un pasado oculto..mp4"
+        },
+        {
+          "id": 272,
+          "title": "Con la paga extra nos podemos permitir un lujo. Por fin logramos comer pez globo. Me enfrentó al Dragón Errante.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/272 ShinChaneros - Con la paga extra nos podemos permitir un lujo. Por fin logramos comer pez globo. Me enfrentó al Dragón Errante..mp4"
+        },
+        {
+          "id": 273,
+          "title": "Mamá hace de encargada de la basura. Jugamos a hacer combates de espadas. Nos montamos una juerga los tres en la bañera.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/273 ShinChaneros - Mamá hace de encargada de la basura. Jugamos a hacer combates de espadas. Nos montamos una juerga los tres en la bañera..mp4"
+        },
+        {
+          "id": 274,
+          "title": "Quedo con Nanako. Protejo a Nanako. Hacemos volar aviones de papel.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/274 ShinChaneros - Quedo con Nanako. Protejo a Nanako. Hacemos volar aviones de papel..mp4"
+        },
+        {
+          "id": 275,
+          "title": "No tenemos dinero para pagar al transportista. Soy un profesional de la aspiradora. La señorita Matsuzaka queda con un chico.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/275 ShinChaneros - No tenemos dinero para pagar al transportista. Soy un profesional de la aspiradora. La señorita Matsuzaka queda con un chico..mp4"
+        },
+        {
+          "id": 276,
+          "title": "Nos vamos a Hawaii toda la familia.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_6/276 ShinChaneros - Nos vamos a Hawaii toda la familia..mp4"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "name": "Season 7",
+      "episodes": [
+        {
+          "id": 277,
+          "title": "Mamá se compra una máquina de coser. El Ejército Escarlata contra el Ejército de los Calcetines de Jirafa. Hay mucha diferencia entre un niño y una niña.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/277 ShinChaneros - Mamá se compra una máquina de coser. El Ejército Escarlata contra el Ejército de los Calcetines de Jirafa. Hay mucha diferencia entre un niño y una niña..mp4"
+        },
+        {
+          "id": 278,
+          "title": "Himawari sueña. Hoy hay combate de jóvenes ninjas. Papá quiere tener un negocio propio.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/278 ShinChaneros - Himawari sueña. Hoy hay combate de jóvenes ninjas. Papá quiere tener un negocio propio..mp4"
+        },
+        {
+          "id": 279,
+          "title": "Hacer encargos es muy complicado. Me encuentro a Michi y Yoshirin en la librería. Aunque esté resfriado quiero merienda.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/279 ShinChaneros - Hacer encargos es muy complicado. Me encuentro a Michi y Yoshirin en la librería. Aunque esté resfriado quiero merienda..mp4"
+        },
+        {
+          "id": 280,
+          "title": "Le cortamos el pelo a Himawari. Vamos a una tienda de segunda mano. Hacemos una fiesta en casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/280 ShinChaneros - Le cortamos el pelo a Himawari. Vamos a una tienda de segunda mano. Hacemos una fiesta en casa..mp4"
+        },
+        {
+          "id": 281,
+          "title": "Hoy cenamos bistec del bueno. Viene un conejo a la guardería. Persigo a Himawari.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/281 ShinChaneros - Hoy cenamos bistec del bueno. Viene un conejo a la guardería. Persigo a Himawari..mp4"
+        },
+        {
+          "id": 283,
+          "title": "Vender seguros de vida es muy duro. Hoy Nené es la protagonista. Construimos un iglú en el jardín.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/283 ShinChaneros - Vender seguros de vida es muy duro. Hoy Nené es la protagonista. Construimos un iglú en el jardín..mp4"
+        },
+        {
+          "id": 284,
+          "title": "Somos unas niñas. Nevado está muerto de hambre. Buscamos el tesoro de papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/284 ShinChaneros - Somos unas niñas. Nevado está muerto de hambre. Buscamos el tesoro de papá..mp4"
+        },
+        {
+          "id": 285,
+          "title": "Mamá se va de casa. Construímos la segunda base secreta. La señorita Matsuzaka no tiene dinero.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/285 ShinChaneros - Mamá se va de casa. Construímos la segunda base secreta. La señorita Matsuzaka no tiene dinero..mp4"
+        },
+        {
+          "id": 286,
+          "title": "Soy el hermano pequeño de Himawari. Masao va de compras. Me escapo de casa con la profe.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/286 ShinChaneros - Soy el hermano pequeño de Himawari. Masao va de compras. Me escapo de casa con la profe..mp4"
+        },
+        {
+          "id": 287,
+          "title": "Papá quiere mucho a Himawari. La fiesta de los cerezos es genial. Aparece el rival del Ejército de Kasukabe.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/287 ShinChaneros - Papá quiere mucho a Himawari. La fiesta de los cerezos es genial. Aparece el rival del Ejército de Kasukabe..mp4"
+        },
+        {
+          "id": 288,
+          "title": "Somos los tres cerditos. Todos tenemos un pasado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/288 ShinChaneros - Somos los tres cerditos. Todos tenemos un pasado..mp4"
+        },
+        {
+          "id": 289,
+          "title": "Tengo a los abuelos por partida doble. Los teléfonos móviles son muy divertidos. Guardamos la ropa de invierno.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/289 ShinChaneros - Tengo a los abuelos por partida doble. Los teléfonos móviles son muy divertidos. Guardamos la ropa de invierno..mp4"
+        },
+        {
+          "id": 290,
+          "title": "Nos disfrazamos en el Palacio de la Fotografía. Vamos al parvulario de nuestros rivales. Mamá tiene alergia al polen.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/290 ShinChaneros - Nos disfrazamos en el Palacio de la Fotografía. Vamos al parvulario de nuestros rivales. Mamá tiene alergia al polen..mp4"
+        },
+        {
+          "id": 291,
+          "title": "Himawari nos imita. Michi y Yoshirin arman alboroto. No encontramos los ahorros secretos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/291 ShinChaneros - Himawari nos imita. Michi y Yoshirin arman alboroto. No encontramos los ahorros secretos..mp4"
+        },
+        {
+          "id": 292,
+          "title": "Ahorramos para evitar el calentamiento global de la Tierra. Kazama mece a Himawari. Cuidamos de Nanako.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/292 ShinChaneros - Ahorramos para evitar el calentamiento global de la Tierra. Kazama mece a Himawari. Cuidamos de Nanako..mp4"
+        },
+        {
+          "id": 294,
+          "title": "Me siento feliz vendado. Mamá trabaja a media jornada. El trabajo de mamá es muy duro.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/294 ShinChaneros - Me siento feliz vendado. Mamá trabaja a media jornada. El trabajo de mamá es muy duro..mp4"
+        },
+        {
+          "id": 295,
+          "title": "Competimos a piedra papel y tijeras con mamá. Vienen a vender seguros a la escuela. Intentamos evitar que papá enferme.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/295 ShinChaneros - Competimos a piedra papel y tijeras con mamá. Vienen a vender seguros a la escuela. Intentamos evitar que papá enferme..mp4"
+        },
+        {
+          "id": 296,
+          "title": "La mamá de Nene está embarazada. La señorita Matsuzaka siente la primavera. La señorita Matsuzaka se ha enamorado a primera vista.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/296 ShinChaneros - La mamá de Nene está embarazada. La señorita Matsuzaka siente la primavera. La señorita Matsuzaka se ha enamorado a primera vista..mp4"
+        },
+        {
+          "id": 297,
+          "title": "La señorita Matsuzaka es muy feliz en la clínica. Salvo a Himawari del peligro. Me ingresan con la señorita Matsuzaka.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/297 ShinChaneros - La señorita Matsuzaka es muy feliz en la clínica. Salvo a Himawari del peligro. Me ingresan con la señorita Matsuzaka..mp4"
+        },
+        {
+          "id": 298,
+          "title": "La señorita Matsuzaka está loca de amor. Me escapo de la clínica. Hago la siesta en la clínica.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/298 ShinChaneros - La señorita Matsuzaka está loca de amor. Me escapo de la clínica. Hago la siesta en la clínica..mp4"
+        },
+        {
+          "id": 299,
+          "title": "Vuelvo a casa después de mucho tiempo. Estoy haciendo rehabilitación. Aún no quiero que me quiten el yeso.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/299 ShinChaneros - Vuelvo a casa después de mucho tiempo. Estoy haciendo rehabilitación. Aún no quiero que me quiten el yeso..mp4"
+        },
+        {
+          "id": 300,
+          "title": "Por fin vuelvo al parvulario. La nueva profesora es distinta. Llega el regalo de la fiesta budista del 15 de julio.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/300 ShinChaneros - Por fin vuelvo al parvulario. La nueva profesora es distinta. Llega el regalo de la fiesta budista del 15 de julio..mp4"
+        },
+        {
+          "id": 301,
+          "title": "Voy a un recital de piano. Nos vamos de veraneo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/301 ShinChaneros - Voy a un recital de piano. Nos vamos de veraneo..mp4"
+        },
+        {
+          "id": 302,
+          "title": "Si le quitas las gafas a la profe dice lo que piensa. Luchó contra Himawari el monstruo. Lo pasamos bomba en el jardín de la cerveza.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/302 ShinChaneros - Si le quitas las gafas a la profe dice lo que piensa. Luchó contra Himawari el monstruo. Lo pasamos bomba en el jardín de la cerveza..mp4"
+        },
+        {
+          "id": 303,
+          "title": "Quiero bañarme con Nanako en la piscina. Kazama está muy preocupado porque se hace pis en la cama. Michi y Yoshirin nos cuidan.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/303 ShinChaneros - Quiero bañarme con Nanako en la piscina. Kazama está muy preocupado porque se hace pis en la cama. Michi y Yoshirin nos cuidan..mp4"
+        },
+        {
+          "id": 304,
+          "title": "Voy a una piscina con olas. Quiero tomar sorbete en verano. El aire acondicionado se ha estropeado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/304 ShinChaneros - Voy a una piscina con olas. Quiero tomar sorbete en verano. El aire acondicionado se ha estropeado..mp4"
+        },
+        {
+          "id": 305,
+          "title": "Jugamos a papás y a mamás con Nené. Nos olvidamos una cosa detrás de otra. El hipo no para.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/305 ShinChaneros - Jugamos a papás y a mamás con Nené. Nos olvidamos una cosa detrás de otra. El hipo no para..mp4"
+        },
+        {
+          "id": 306,
+          "title": "Elegir un juguete es complicado. La venganza del pastel es terrorífica. Mamá se queda encerrada en el balcón.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/306 ShinChaneros - Elegir un juguete es complicado. La venganza del pastel es terrorífica. Mamá se queda encerrada en el balcón..mp4"
+        },
+        {
+          "id": 307,
+          "title": "Nos hacemos ilusiones con el futuro de Himawari. Hoy Michi está maldita. Hacemos un festival de fuegos artificiales en familia.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/307 ShinChaneros - Nos hacemos ilusiones con el futuro de Himawari. Hoy Michi está maldita. Hacemos un festival de fuegos artificiales en familia..mp4"
+        },
+        {
+          "id": 308,
+          "title": "Soy un hombre silencioso. Vamos a visitar a la señorita Matsuzaka. Jugamos con los utensilios de limpieza.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/308 ShinChaneros - Soy un hombre silencioso. Vamos a visitar a la señorita Matsuzaka. Jugamos con los utensilios de limpieza..mp4"
+        },
+        {
+          "id": 309,
+          "title": "Le hacemos una foto escandalosa a mamá. Animamos a la señorita Ageo. Papá tiene un vídeo secreto.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/309 ShinChaneros - Le hacemos una foto escandalosa a mamá. Animamos a la señorita Ageo. Papá tiene un vídeo secreto..mp4"
+        },
+        {
+          "id": 310,
+          "title": "Mamá se pasa toda la noche batallando. Los nacidos en la era Taisho tienen mucha vitalidad. Seguimos el recorrido del paseo de Nevado.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/310 ShinChaneros - Mamá se pasa toda la noche batallando. Los nacidos en la era Taisho tienen mucha vitalidad. Seguimos el recorrido del paseo de Nevado..mp4"
+        },
+        {
+          "id": 311,
+          "title": "Juego a los aviones con papá. Construimos un refugio subterráneo. Dan de alta a la señorita Matsuzaka.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/311 ShinChaneros - Juego a los aviones con papá. Construimos un refugio subterráneo. Dan de alta a la señorita Matsuzaka..mp4"
+        },
+        {
+          "id": 312,
+          "title": "Me cambio por mamá. Ayudo a un extranjero. El grupo de detectives de Kasukabe.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/312 ShinChaneros - Me cambio por mamá. Ayudo a un extranjero. El grupo de detectives de Kasukabe..mp4"
+        },
+        {
+          "id": 313,
+          "title": "La señorita Matsuzaka ha regresado. Himawari también se apunta a la lectura de otoño. Vamos a jugar al parque que hay cerca de casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/313 ShinChaneros - La señorita Matsuzaka ha regresado. Himawari también se apunta a la lectura de otoño. Vamos a jugar al parque que hay cerca de casa..mp4"
+        },
+        {
+          "id": 314,
+          "title": "Protegemos la cita de la señorita Matsuzaka. Cuidado con los ladrones. Vamos a cavar boniatos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/314 ShinChaneros - Protegemos la cita de la señorita Matsuzaka. Cuidado con los ladrones. Vamos a cavar boniatos..mp4"
+        },
+        {
+          "id": 315,
+          "title": "Tener lavaplatos es muy práctico. Kazama es un fan secreto. Esta noche no consigo dormir.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/315 ShinChaneros - Tener lavaplatos es muy práctico. Kazama es un fan secreto. Esta noche no consigo dormir..mp4"
+        },
+        {
+          "id": 316,
+          "title": "Boo-chan es el mejor niño de Saitama. Los paseos matutinos de papá son muy sospechosos. Descubro el secreto de los paseos de papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/316 ShinChaneros - Boo-chan es el mejor niño de Saitama. Los paseos matutinos de papá son muy sospechosos. Descubro el secreto de los paseos de papá..mp4"
+        },
+        {
+          "id": 317,
+          "title": "Encuentro un termo mágico. Cuando Nené se enfada da mucho miedo. Cuidamos a un gato.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/317 ShinChaneros - Encuentro un termo mágico. Cuando Nené se enfada da mucho miedo. Cuidamos a un gato..mp4"
+        },
+        {
+          "id": 318,
+          "title": "Aso unos boniatos con Kazama. Yoshirin se va de casa. Deben tener una pelea conyugal.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/318 ShinChaneros - Aso unos boniatos con Kazama. Yoshirin se va de casa. Deben tener una pelea conyugal..mp4"
+        },
+        {
+          "id": 320,
+          "title": "Quiero el regalo de Ultra Héroe. Seguimos la cita de la señorita Matsuzaka. Nos vamos a lavar el coche.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/320 ShinChaneros - Quiero el regalo de Ultra Héroe. Seguimos la cita de la señorita Matsuzaka. Nos vamos a lavar el coche..mp4"
+        },
+        {
+          "id": 321,
+          "title": "A Himawari le gustan las cartas. Las mamás van de charla. La señorita Yoshinaga no puede acudir a su cita.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/321 ShinChaneros - A Himawari le gustan las cartas. Las mamás van de charla. La señorita Yoshinaga no puede acudir a su cita..mp4"
+        },
+        {
+          "id": 322,
+          "title": "Las estatuas son agradecidas. La cerveza es para adultos. Nos metemos en un atasco. Somos los Chuushingura.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_7/322 ShinChaneros - Las estatuas son agradecidas. La cerveza es para adultos. Nos metemos en un atasco. Somos los Chuushingura..mp4"
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "name": "Season 8",
+      "episodes": [
+        {
+          "id": 323,
+          "title": "Hacer volar cometas es muy difícil. Kazama tiene mal agüero. Papá pasa una noche de perros.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/323 ShinChaneros - Hacer volar cometas es muy difícil. Kazama tiene mal agüero. Papá pasa una noche de perros..mp4"
+        },
+        {
+          "id": 324,
+          "title": "Entre Himawari y yo hay amor fraternal. Buscamos piedras curiosas. Vuelvo a coincidir con el padre de Nanako.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/324 ShinChaneros - Entre Himawari y yo hay amor fraternal. Buscamos piedras curiosas. Vuelvo a coincidir con el padre de Nanako..mp4"
+        },
+        {
+          "id": 325,
+          "title": "La señorita Matsuzaka está muy ardiente en su cita. Vamos a ver un combate de lucha libre. No dejamos escapar esta oferta.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/325 ShinChaneros - La señorita Matsuzaka está muy ardiente en su cita. Vamos a ver un combate de lucha libre. No dejamos escapar esta oferta..mp4"
+        },
+        {
+          "id": 326,
+          "title": "Los días de rebajas son muy estresantes. Kazama y yo somos amigos íntimos. Cunde el pánico por unas pilas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/326 ShinChaneros - Los días de rebajas son muy estresantes. Kazama y yo somos amigos íntimos. Cunde el pánico por unas pilas..mp4"
+        },
+        {
+          "id": 327,
+          "title": "El Súper Robot se ha roto. Las mañanas frías jugamos con el hielo. En invierno no hay nada mejor que ir a unas termas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/327 ShinChaneros - El Súper Robot se ha roto. Las mañanas frías jugamos con el hielo. En invierno no hay nada mejor que ir a unas termas..mp4"
+        },
+        {
+          "id": 328,
+          "title": "El director se pone a llorar. El Ejército Escarlata trabaja disfrazado. Hago de sereno con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/328 ShinChaneros - El director se pone a llorar. El Ejército Escarlata trabaja disfrazado. Hago de sereno con papá..mp4"
+        },
+        {
+          "id": 329,
+          "title": "Mamá va a cobrar la recaudación. Nené es una heroína trágica. Tengo el parvulario para mí solo.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/329 ShinChaneros - Mamá va a cobrar la recaudación. Nené es una heroína trágica. Tengo el parvulario para mí solo..mp4"
+        },
+        {
+          "id": 330,
+          "title": "Vivimos como los pobres para ahorrar. Las predicciones de Nené siempre se cumplen. Aprendo a hacer haikus con versos de 5 7 y 5 sílabas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/330 ShinChaneros - Vivimos como los pobres para ahorrar. Las predicciones de Nené siempre se cumplen. Aprendo a hacer haikus con versos de 5 7 y 5 sílabas..mp4"
+        },
+        {
+          "id": 331,
+          "title": "Quiero hacer un Ultra Héroe con latas. Mi posición de hermano mayor está en peligro. Juego con una casa de juguete.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/331 ShinChaneros - Quiero hacer un Ultra Héroe con latas. Mi posición de hermano mayor está en peligro. Juego con una casa de juguete..mp4"
+        },
+        {
+          "id": 332,
+          "title": "Himawari tiene una colección secreta. A Masao le hacen una prueba muy dura. Somos una familia olvidadiza.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/332 ShinChaneros - Himawari tiene una colección secreta. A Masao le hacen una prueba muy dura. Somos una familia olvidadiza..mp4"
+        },
+        {
+          "id": 333,
+          "title": "Hoy comemos menú. A Masao le preocupa el futuro. Papá se fuga de casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/333 ShinChaneros - Hoy comemos menú. A Masao le preocupa el futuro. Papá se fuga de casa..mp4"
+        },
+        {
+          "id": 334,
+          "title": "Contamos la historia del viejo egoísta. La vida nunca sale como la planeamos. Queremos ir a un balneario. Papá es muy tiquis miquis con su baño.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/334 ShinChaneros - Contamos la historia del viejo egoísta. La vida nunca sale como la planeamos. Queremos ir a un balneario. Papá es muy tiquis miquis con su baño..mp4"
+        },
+        {
+          "id": 335,
+          "title": "Mamá y yo aprendemos inglés. El vídeo lo ha visto todo. Esto huele que apesta.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/335 ShinChaneros - Mamá y yo aprendemos inglés. El vídeo lo ha visto todo. Esto huele que apesta..mp4"
+        },
+        {
+          "id": 336,
+          "title": "Himawari es mi lacayo. El mafioso trae un pastel de fresa. Con este jaleo no hay quien duerma.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/336 ShinChaneros - Himawari es mi lacayo. El mafioso trae un pastel de fresa. Con este jaleo no hay quien duerma..mp4"
+        },
+        {
+          "id": 337,
+          "title": "Yo también quiero ponerme guapo con maquillaje. Soy el niño que trae la felicidad. Me escaqueo de las tareas de casa.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/337 ShinChaneros - Yo también quiero ponerme guapo con maquillaje. Soy el niño que trae la felicidad. Me escaqueo de las tareas de casa..mp4"
+        },
+        {
+          "id": 338,
+          "title": "Mamá es el modelo de Himawari. El autobús del parvulario da mucho sueño. Yo no me parezco a nadie.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/338 ShinChaneros - Mamá es el modelo de Himawari. El autobús del parvulario da mucho sueño. Yo no me parezco a nadie..mp4"
+        },
+        {
+          "id": 339,
+          "title": "Vemos vídeos de cuando era un bebé. Voy a sustituir a Kazama. Buscamos un apartamento.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/339 ShinChaneros - Vemos vídeos de cuando era un bebé. Voy a sustituir a Kazama. Buscamos un apartamento..mp4"
+        },
+        {
+          "id": 340,
+          "title": "Mamá se empeña en conseguir un regalo. La señorita Matsuzaka va a romper con su novio. Me quedo pegado a la tienda de las teles.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/340 ShinChaneros - Mamá se empeña en conseguir un regalo. La señorita Matsuzaka va a romper con su novio. Me quedo pegado a la tienda de las teles..mp4"
+        },
+        {
+          "id": 341,
+          "title": "El abuelo y yo somos rivales en el amor. El abuelo es muy madrugador. Planificamos una excursión.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/341 ShinChaneros - El abuelo y yo somos rivales en el amor. El abuelo es muy madrugador. Planificamos una excursión..mp4"
+        },
+        {
+          "id": 342,
+          "title": "Leer libros es muy divertido. Acompañó a Kazama a ponerse guapo. Subimos al Space Shuttle.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/342 ShinChaneros - Leer libros es muy divertido. Acompañó a Kazama a ponerse guapo. Subimos al Space Shuttle..mp4"
+        },
+        {
+          "id": 343,
+          "title": "La ropa no se seca. El pintalabios da problemas. Nevado muerde a Himawari.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/343 ShinChaneros - La ropa no se seca. El pintalabios da problemas. Nevado muerde a Himawari..mp4"
+        },
+        {
+          "id": 345,
+          "title": "Saboreo el verano japonés. El kimono me queda original. Hacemos pasta casera.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/345 ShinChaneros - Saboreo el verano japonés. El kimono me queda original. Hacemos pasta casera..mp4"
+        },
+        {
+          "id": 346,
+          "title": "Himawari y el ventilador se pelean. A la señorita Ageo le dan miedo las alturas. La casa de los Nohara está repleta de secretos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/346 ShinChaneros - Himawari y el ventilador se pelean. A la señorita Ageo le dan miedo las alturas. La casa de los Nohara está repleta de secretos..mp4"
+        },
+        {
+          "id": 347,
+          "title": "El Ejército de Kasukabe se separa. El Ejército de Kasukabe está en pie de guerra. Papá lo pasa fatal con los discursos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/347 ShinChaneros - El Ejército de Kasukabe se separa. El Ejército de Kasukabe está en pie de guerra. Papá lo pasa fatal con los discursos..mp4"
+        },
+        {
+          "id": 348,
+          "title": "Mamá se ha cambiado de peinado. El peinado de mamá cada vez es más raro. Masao imita muy bien.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/348 ShinChaneros - Mamá se ha cambiado de peinado. El peinado de mamá cada vez es más raro. Masao imita muy bien..mp4"
+        },
+        {
+          "id": 349,
+          "title": "Cortamos el césped de casa. El juego de Nené va a más. Intentamos llevar una vida tranquila.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/349 ShinChaneros - Cortamos el césped de casa. El juego de Nené va a más. Intentamos llevar una vida tranquila..mp4"
+        },
+        {
+          "id": 350,
+          "title": "Se reúnen todos los conocidos de la familia. La familia arma alboroto. Tener familia es genial.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/350 ShinChaneros - Se reúnen todos los conocidos de la familia. La familia arma alboroto. Tener familia es genial..mp4"
+        },
+        {
+          "id": 351,
+          "title": "Papá nos cuenta una historia de miedo. Esta es la historia de la muñeca maldita. Voy con Nanako a la casa del terror.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/351 ShinChaneros - Papá nos cuenta una historia de miedo. Esta es la historia de la muñeca maldita. Voy con Nanako a la casa del terror..mp4"
+        },
+        {
+          "id": 352,
+          "title": "Ir a comprar es muy cansado. Hacemos fotos para ganar cien mil yenes. La señorita Matsuzaka espera que se le declare.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/352 ShinChaneros - Ir a comprar es muy cansado. Hacemos fotos para ganar cien mil yenes. La señorita Matsuzaka espera que se le declare..mp4"
+        },
+        {
+          "id": 353,
+          "title": "Los vales de compra están a punto de caducar. El dibujante de cómics sufre un contratiempo. El plan de la señorita Matsuzaka se va al traste.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/353 ShinChaneros - Los vales de compra están a punto de caducar. El dibujante de cómics sufre un contratiempo. El plan de la señorita Matsuzaka se va al traste..mp4"
+        },
+        {
+          "id": 354,
+          "title": "El amor de la señorita Matsuzaka llega a su fin.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/354 ShinChaneros - El amor de la señorita Matsuzaka llega a su fin..mp4"
+        },
+        {
+          "id": 355,
+          "title": "Me explican el pasado de papá y mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/355 ShinChaneros - Me explican el pasado de papá y mamá..mp4"
+        },
+        {
+          "id": 356,
+          "title": "Me peleo con Himawari. El Ejército de Kasukabe entrena a Nevado. El tifón Misae nos ataca.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/356 ShinChaneros - Me peleo con Himawari. El Ejército de Kasukabe entrena a Nevado. El tifón Misae nos ataca..mp4"
+        },
+        {
+          "id": 357,
+          "title": "Papá se queda sin su día de fiesta. Himawari pasa un día en la escuela. Los grillos son la gracia del otoño.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/357 ShinChaneros - Papá se queda sin su día de fiesta. Himawari pasa un día en la escuela. Los grillos son la gracia del otoño..mp4"
+        },
+        {
+          "id": 358,
+          "title": "La pinza del hipopótamo es muy chula. Mari-chan se enfrenta a un gran desafío. Llega la hora de la siesta.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/358 ShinChaneros - La pinza del hipopótamo es muy chula. Mari-chan se enfrenta a un gran desafío. Llega la hora de la siesta..mp4"
+        },
+        {
+          "id": 359,
+          "title": "Marii la maga misteriosa. Vemos Marii la maga en la tele. Quiero la medalla de oro. Los casos del detective Nohara - La estrella amenazada. Los casos del detective Nohara - En busca de los asesinos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/359 ShinChaneros - Marii la maga misteriosa. Vemos Marii la maga en la tele. Quiero la medalla de oro. Los casos del detective Nohara - La estrella amenazada. Los casos del detective Nohara - En busca de los asesinos..mp4"
+        },
+        {
+          "id": 360,
+          "title": "Nos volvemos locos con un coche de juguete. A papá le duelen las caries. Preparamos una menestra de verduras con Robert.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/360 ShinChaneros - Nos volvemos locos con un coche de juguete. A papá le duelen las caries. Preparamos una menestra de verduras con Robert..mp4"
+        },
+        {
+          "id": 361,
+          "title": "Guardamos el ventilador. Los festivales universitarios son muy divertidos. Cepillo los zapatos con papá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/361 ShinChaneros - Guardamos el ventilador. Los festivales universitarios son muy divertidos. Cepillo los zapatos con papá..mp4"
+        },
+        {
+          "id": 362,
+          "title": "Mamá descubre qué es tomar bario. Vamos a ver el rodaje de Mari-chan. Hoy aprendo a hacer empanadillas japonesas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/362 ShinChaneros - Mamá descubre qué es tomar bario. Vamos a ver el rodaje de Mari-chan. Hoy aprendo a hacer empanadillas japonesas..mp4"
+        },
+        {
+          "id": 363,
+          "title": "Una niña trae la tempestad. Aparece Ai Suotome. Masao es esclavo del amor. Mamá tiene mucho éxito con los chicos.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/363 ShinChaneros - Una niña trae la tempestad. Aparece Ai Suotome. Masao es esclavo del amor. Mamá tiene mucho éxito con los chicos..mp4"
+        },
+        {
+          "id": 364,
+          "title": "Mamá se ha enamorado. Nadie puede resistirse a los encantos de Ai. Himawari reta en duelo a mamá.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/364 ShinChaneros - Mamá se ha enamorado. Nadie puede resistirse a los encantos de Ai. Himawari reta en duelo a mamá..mp4"
+        },
+        {
+          "id": 365,
+          "title": "La popularidad de Ai-chan arrasa con todo. Empieza el gran duelo. Nené contra Ai-chan. A Himawari le gusta meterse en las cajas.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/365 ShinChaneros - La popularidad de Ai-chan arrasa con todo. Empieza el gran duelo. Nené contra Ai-chan. A Himawari le gusta meterse en las cajas..mp4"
+        },
+        {
+          "id": 366,
+          "title": "Ai-chan está loca por mí. Me bato en duelo con Kazama. Himawari hace predicciones.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/366 ShinChaneros - Ai-chan está loca por mí. Me bato en duelo con Kazama. Himawari hace predicciones..mp4"
+        },
+        {
+          "id": 367,
+          "title": "Los secretos de papá y mamá son deliciosos. Aprendemos la técnica mortal de todo hombre. El amor de Misae llega a su estación terminal.",
+          "duration": "24 min",
+          "thumbnail": "assets/Crayon_Shin-chan.png",
+          "videoUrl": "../Season_8/367 ShinChaneros - Los secretos de papá y mamá son deliciosos. Aprendemos la técnica mortal de todo hombre. El amor de Misae llega a su estación terminal..mp4"
+        }
+      ]
+    }
+  ]
+}
